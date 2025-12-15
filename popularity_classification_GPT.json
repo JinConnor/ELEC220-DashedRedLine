@@ -1,0 +1,102 @@
+[
+  {
+    "bucket": "LOW",
+    "prob": 0.8,
+    "justification": "Energy (0.598) and danceability (0.369) are both below the dataset medians.",
+    "evidence": {
+      "energy": 0.598,
+      "danceability": 0.369,
+      "valence": 0.0466
+    }
+  },
+  {
+    "bucket": "MID",
+    "prob": 0.6,
+    "justification": "Very high energy (0.997) but low danceability (0.171) relative to medians suggests niche appeal.",
+    "evidence": {
+      "energy": 0.997,
+      "danceability": 0.171,
+      "valence": 0.0294
+    }
+  },
+  {
+    "bucket": "LOW",
+    "prob": 0.8,
+    "justification": "Danceability (0.173) and valence (0.0887) are well below medians despite moderate energy.",
+    "evidence": {
+      "energy": 0.803,
+      "danceability": 0.173,
+      "valence": 0.0887
+    }
+  },
+  {
+    "bucket": "MID",
+    "prob": 0.6,
+    "justification": "High danceability (0.683) but only moderate energy (0.511) compared to medians.",
+    "evidence": {
+      "energy": 0.511,
+      "danceability": 0.683,
+      "valence": 0.598
+    }
+  },
+  {
+    "bucket": "HIGH",
+    "prob": 0.8,
+    "justification": "Both energy (0.941) and valence (0.813) exceed dataset medians.",
+    "evidence": {
+      "energy": 0.941,
+      "danceability": 0.555,
+      "valence": 0.813
+    }
+  },
+  {
+    "bucket": "HIGH",
+    "prob": 0.8,
+    "justification": "Danceability (0.776) and energy (0.800) are above or near medians with strong tempo.",
+    "evidence": {
+      "energy": 0.8,
+      "danceability": 0.776,
+      "tempo_bpm": 143.989
+    }
+  },
+  {
+    "bucket": "MID",
+    "prob": 0.6,
+    "justification": "High energy (0.815) but extremely high speechiness (0.911) limits mass appeal.",
+    "evidence": {
+      "energy": 0.815,
+      "speechiness": 0.911,
+      "danceability": 0.627
+    }
+  },
+  {
+    "bucket": "MID",
+    "prob": 0.6,
+    "justification": "Energy (0.933) is high but danceability (0.395) is below the median.",
+    "evidence": {
+      "energy": 0.933,
+      "danceability": 0.395,
+      "valence": 0.194
+    }
+  },
+  {
+    "bucket": "HIGH",
+    "prob": 0.8,
+    "justification": "Very high danceability (0.914) and valence (0.900) exceed medians.",
+    "evidence": {
+      "energy": 0.766,
+      "danceability": 0.914,
+      "valence": 0.9
+    }
+  },
+  {
+    "bucket": "HIGH",
+    "prob": 0.8,
+    "justification": "Extremely high energy (0.976) and valence (0.818) compared to medians.",
+    "evidence": {
+      "energy": 0.976,
+      "danceability": 0.345,
+      "valence": 0.818
+    }
+  }
+]
