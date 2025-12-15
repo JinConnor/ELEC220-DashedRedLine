@@ -1,0 +1,152 @@
+[
+  {
+    "track_id": "6KwkVtXm8OUp2XffN5k7lY",
+    "track_name": "No Other Name",
+    "bucket": "LOW",
+    "prob": 0.33,
+    "popularity": 33,
+    "justification": "Danceability (0.369) and energy (0.598) relative to medians (0.58, 0.685) drive a low popularity estimate.",
+    "evidence": {
+      "danceability": 0.369,
+      "energy": 0.598,
+      "valence": 0.0466,
+      "tempo_bpm": 148.014,
+      "loudness_db": -6.984
+    }
+  },
+  {
+    "track_id": "2dp5I5MJ8bQQHDoFaNRFtX",
+    "track_name": "Failed Organum",
+    "bucket": "MID",
+    "prob": 0.34,
+    "popularity": 34,
+    "justification": "Danceability (0.171) and energy (0.997) relative to medians (0.58, 0.685) drive a mid popularity estimate.",
+    "evidence": {
+      "danceability": 0.171,
+      "energy": 0.997,
+      "valence": 0.0294,
+      "tempo_bpm": 122.223,
+      "loudness_db": -3.586
+    }
+  },
+  {
+    "track_id": "5avw06usmFkFrPjX8NxC40",
+    "track_name": "Save the Trees, Pt. 1",
+    "bucket": "LOW",
+    "prob": 0.22,
+    "popularity": 22,
+    "justification": "Danceability (0.173) and energy (0.803) relative to medians (0.58, 0.685) drive a low popularity estimate.",
+    "evidence": {
+      "danceability": 0.173,
+      "energy": 0.803,
+      "valence": 0.0887,
+      "tempo_bpm": 75.564,
+      "loudness_db": -10.071
+    }
+  },
+  {
+    "track_id": "75hT0hvlESnDJstem0JgyR",
+    "track_name": "Merry Christmas",
+    "bucket": "MID",
+    "prob": 0.5,
+    "popularity": 50,
+    "justification": "Danceability (0.683) and energy (0.511) relative to medians (0.58, 0.685) drive a mid popularity estimate.",
+    "evidence": {
+      "danceability": 0.683,
+      "energy": 0.511,
+      "valence": 0.598,
+      "tempo_bpm": 109.991,
+      "loudness_db": -5.598
+    }
+  },
+  {
+    "track_id": "4bY2oZGA5Br3pTE1Jd1IfY",
+    "track_name": "\u6708\u306e\u5927\u304d\u3055",
+    "bucket": "MID",
+    "prob": 0.63,
+    "popularity": 63,
+    "justification": "Danceability (0.555) and energy (0.941) relative to medians (0.58, 0.685) drive a mid popularity estimate.",
+    "evidence": {
+      "danceability": 0.555,
+      "energy": 0.941,
+      "valence": 0.813,
+      "tempo_bpm": 92.487,
+      "loudness_db": -3.294
+    }
+  },
+  {
+    "track_id": "2zQt5C0AIv27RhfJCRZdZ4",
+    "track_name": "Jah Jah Revolta, Pt. 2",
+    "bucket": "MID",
+    "prob": 0.67,
+    "popularity": 67,
+    "justification": "Danceability (0.776) and energy (0.8) relative to medians (0.58, 0.685) drive a mid popularity estimate.",
+    "evidence": {
+      "danceability": 0.776,
+      "energy": 0.8,
+      "valence": 0.583,
+      "tempo_bpm": 143.989,
+      "loudness_db": -4.704
+    }
+  },
+  {
+    "track_id": "6BctgCJXlgxYeR0ObhLdtR",
+    "track_name": "Please Stop Communicating",
+    "bucket": "LOW",
+    "prob": 0.15,
+    "popularity": 15,
+    "justification": "Danceability (0.627) and energy (0.815) relative to medians (0.58, 0.685) drive a low popularity estimate.",
+    "evidence": {
+      "danceability": 0.627,
+      "energy": 0.815,
+      "valence": 0.532,
+      "tempo_bpm": 119.197,
+      "loudness_db": -6.959
+    }
+  },
+  {
+    "track_id": "1LDQFdGTEXOnycDC8CJ5p1",
+    "track_name": "A Form of Protest",
+    "bucket": "MID",
+    "prob": 0.41,
+    "popularity": 41,
+    "justification": "Danceability (0.395) and energy (0.933) relative to medians (0.58, 0.685) drive a mid popularity estimate.",
+    "evidence": {
+      "danceability": 0.395,
+      "energy": 0.933,
+      "valence": 0.194,
+      "tempo_bpm": 92.53,
+      "loudness_db": -3.6
+    }
+  },
+  {
+    "track_id": "2DDR5F7bHFJBiX6lPPsT8O",
+    "track_name": "I'm Ready - Radio Edit",
+    "bucket": "HIGH",
+    "prob": 0.76,
+    "popularity": 76,
+    "justification": "Danceability (0.914) and energy (0.766) relative to medians (0.58, 0.685) drive a high popularity estimate.",
+    "evidence": {
+      "danceability": 0.914,
+      "energy": 0.766,
+      "valence": 0.9,
+      "tempo_bpm": 126.632,
+      "loudness_db": -5.662
+    }
+  },
+  {
+    "track_id": "2ScU6iEvgb0TIuKiyem9rg",
+    "track_name": "Proibida Pra Mim (Grazon) - Ao Vivo",
+    "bucket": "MID",
+    "prob": 0.65,
+    "popularity": 65,
+    "justification": "Danceability (0.345) and energy (0.976) relative to medians (0.58, 0.685) drive a mid popularity estimate.",
+    "evidence": {
+      "danceability": 0.345,
+      "energy": 0.976,
+      "valence": 0.818,
+      "tempo_bpm": 181.121,
+      "loudness_db": -4.74
+    }
+  }
+]
