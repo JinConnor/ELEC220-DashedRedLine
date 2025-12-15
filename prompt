@@ -1,1 +1,15 @@
-We are given a Spotify track record as JSON with fields: {danceability, energy, valence, tempo_bpm, loudness_db, acousticness, instrumentalness, liveness, speechiness, mode, year, (optional) artist_popularity}. Classify POPULARITY_BUCKET as one of {LOW, MID, HIGH}. Rules: (1) Base decision only on provided fields. (2) Cite at least 2 numeric features from JSON. (3) Compare against dataset medians below. Return JSON only: {"bucket":"LOW|MID|HIGH","prob":0.0-1.0, "justification":"<one sentence citing features>", "evidence":{"energy":0.xx,"tempo_bpm":nnn,...}}
+We are given a Spotify track record as JSON with fields: {danceability, energy, valence, tempo_bpm, loudness_db, acousticness, instrumentalness, liveness, speechiness, mode, year, (optional) artist_popularity}. Classify POPULARITY_BUCKET as one of {LOW, MID, HIGH}. Provide numerical popularity prediction from 1-100, with 1-33 LOW, 33-67 MID, 68-100 HIGH, . Rules: (1) Base decision only on provided fields. (2) Cite at least 2 numeric features from JSON. (3) Compare against dataset medians provided below. Return JSON only: {"bucket":"LOW|MID|HIGH","prob":0.0-1.0, "popularity: 1-100", "justification":"<one sentence citing features>", "evidence":{"energy":0.xx,"tempo_bpm":nnn,...}}
+MEDIANS:
+duration_ms: 212906.0
+danceability: 0.58
+energy: 0.685
+key: 5.0
+loudness: -7.004
+mode: 1.0
+speechiness: 0.0489
+acousticness: 0.169
+instrumentalness: 4.16e-05
+liveness: 0.132
+valence: 0.464
+tempo: 122.017
+time_signature: 4.0
