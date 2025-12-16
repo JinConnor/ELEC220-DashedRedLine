@@ -19,10 +19,13 @@
   columns=fullflexible,
   breaklines=true,
   frame=single,
-  xleftmargin=0.3em,
-  xrightmargin=0.3em,
+  xleftmargin=1em,
+  xrightmargin=1em,
+  framesep=1em,
   aboveskip=0.6em,
-  belowskip=0.6em
+  belowskip=0.6em,
+  abovecaptionskip=1em,
+  captionpos=b
 }
 
 \begin{document}
@@ -148,20 +151,38 @@ We evaluate three LLM families: GPT, Gemini, and Claude, using each provider's s
 We use a schema-aware prompt scaffold. For Task A, we require decisions to be based only on provided fields and require citing at least two numeric features and comparing to dataset medians. For Task B, we provide the table schema and restrict SQL to listed columns and SQLite-compatible syntax.
 
 \begin{lstlisting}[caption={Task A prompt sketch (abbreviated) with hard constraints.},label={lst:promptA}]
-We are given a Spotify track record as JSON with fields:
-{danceability, energy, valence, tempo_bpm, loudness_db,
- acousticness, instrumentalness, liveness, speechiness,
- mode, year, (optional) artist_popularity}.
-Classify POPULARITY_BUCKET as one of {LOW, MID, HIGH}.
-Rules: (1) Base decision only on provided fields.
-(2) Cite at least 2 numeric features from JSON.
-(3) Compare against dataset medians below.
-Return JSON only:
-{"bucket":"LOW|MID|HIGH","prob":0.0-1.0,
- "justification":"<one sentence citing features>",
- "evidence":{"energy":0.xx,"tempo_bpm":nnn,...}}
-\end{lstlisting}
+We are given a Spotify track record as JSON with fields: {danceability, energy, valence, tempo_bpm, loudness_db, acousticness, instrumentalness, liveness, speechiness, mode1}. Classify POPULARITY_BUCKET as one of {LOW, MID, HIGH}. Provide numerical popularity prediction from 1-100, with 1-33 LOW, 33-67 MID, 68-100 HIGH, . Rules: (1) Base decision only on provided fields. (2) Cite at least 2 numeric features from JSON. (3) Compare against dataset medians provided below. Return as a JSON only with all songs: {"track_id", "abcd1234", "track_name":, "bucket":"LOW|MID|HIGH","prob":0.0-1.0, "popularity: 1-100", "justification":"<one sentence citing features>", "evidence":{"energy":0.xx,"tempo_bpm":nnn,...}}
+MEDIANS:
+**list of medians of 13 features omitted**
 
+\end{lstlisting}
+\vspace{3ex}
+\begin{lstlisting}[caption={task B Prompt}, label={lst:promptB}]
+You are an expert SQL assistant specialized in SQLite.
+Your task is to translate natural language questions into valid SQLite queries based on the data structure found in the "song_dataset.json" file.
+
+#DATABASE SCHEMA
+Table Name: song_dataset
+(Note: Treat the JSON file "song_dataset.json" as a SQL table named 'song_dataset' with the following columns)
+Columns:
+**list of 20 features omitted**
+
+### RULES
+1. Return ONLY a single valid JSON list (array).
+2. Do not include markdown formatting (like ```json), explanations, or extra text. Just the raw JSON.
+3. Use only the columns listed in the DATABASE SCHEMA which correspond to the keys in "song_dataset.json".
+4. Ensure the SQL is compatible with SQLite.
+5. All queries must target the table name 'song_dataset'.
+6. Use data from "question_list.json". The "group", "id", and "question" categories should derive their data from this category.
+7. Output the JSON list into a file titled "results.json"
+
+### OUTPUT FORMAT
+[
+  {"id": 1, "group": 1, "question": "Question text here", "sql": "SELECT ... FROM song_dataset WHERE ..."},
+  {"id": 2, "group": 1, "question": "Question text here", "sql": "SELECT ... FROM song_dataset WHERE ..."}
+]
+\end{lstlisting}
+\newpage
 \subsection{Baselines}
 We include:
 \begin{itemize}
@@ -211,9 +232,9 @@ Table~\ref{tab:cls} summarizes accuracy and macro-F1 for each model and baseline
 \midrule
 Majority baseline & TODO & TODO \\
 Tabular baseline (XGBoost) & TODO & TODO \\
-GPT & TODO & TODO \\
-Gemini & TODO & TODO \\
-Claude & TODO & TODO \\
+Gemini & 0.51 & 0.34 \\
+GPT & 0.23 & 0.19 \\
+Claude & 0.62 & 0.63 \\
 \bottomrule
 \end{tabular}
 \end{table}

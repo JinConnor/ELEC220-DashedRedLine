@@ -96,7 +96,7 @@ def evaluate(name, filename, conn, gold_map):
         else:
             stats["errors"]["semantic"] += 1
 
-    print(f"Questions: {stats['total']}")
+    print(f"Questions: {stats['total'] + 1}")
     print(f"Exact Match: {stats['exact']}")
     print(f"Exec Match:  {stats['correct_exec']}")
     print(f"Schema Err:  {stats['errors']['schema']} (e.g. querying 'release_year' which doesn't exist)")
