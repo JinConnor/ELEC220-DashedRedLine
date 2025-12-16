@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "group": 1,
+    "question": "Find all tracks with energy greater than 0.8."
+  },
+  {
+    "id": 2,
+    "group": 1,
+    "question": "List all songs with a danceability score below 0.5 and a tempo above 140 BPM."
+  },
+  {
+    "id": 3,
+    "group": 1,
+    "question": "Show all tracks where the artist is 'Taylor Swift' and popularity is greater than 80."
+  },
+  {
+    "id": 4,
+    "group": 1,
+    "question": "Retrieve all tracks with acousticness higher than 0.9 and a duration less than 3 minutes (180000 ms)."
+  },
+  {
+    "id": 5,
+    "group": 1,
+    "question": "Find all instrumental tracks (instrumentalness > 0.5) that are longer than 5 minutes."
+  },
+  {
+    "id": 6,
+    "group": 1,
+    "question": "List songs with a valence greater than 0.75 and loudness greater than -5 dB."
+  },
+  {
+    "id": 7,
+    "group": 1,
+    "question": "Identify all tracks where the key is 0 (C) and the mode is 1 (Major)."
+  },
+  {
+    "id": 8,
+    "group": 1,
+    "question": "Show all explicit tracks with a popularity score above 50."
+  },
+  {
+    "id": 9,
+    "group": 1,
+    "question": "Find tracks with liveness greater than 0.8 implying a live recording."
+  },
+  {
+    "id": 10,
+    "group": 1,
+    "question": "List all tracks where speechiness is greater than 0.66."
+  },
+  {
+    "id": 11,
+    "group": 2,
+    "question": "What is the average tempo of tracks grouped by genre?"
+  },
+  {
+    "id": 12,
+    "group": 2,
+    "question": "Calculate the average energy of songs for each artist."
+  },
+  {
+    "id": 13,
+    "group": 2,
+    "question": "Count the total number of tracks in each genre."
+  },
+  {
+    "id": 14,
+    "group": 2,
+    "question": "Find the maximum popularity score for each genre."
+  },
+  {
+    "id": 15,
+    "group": 2,
+    "question": "What is the average duration (in ms) of tracks grouped by album?"
+  },
+  {
+    "id": 16,
+    "group": 2,
+    "question": "Sum the total number of explicit tracks per artist."
+  },
+  {
+    "id": 17,
+    "group": 2,
+    "question": "Calculate the average loudness of tracks grouped by time signature."
+  },
+  {
+    "id": 18,
+    "group": 2,
+    "question": "Find the minimum acousticness score for each artist with more than 10 tracks."
+  },
+  {
+    "id": 19,
+    "group": 2,
+    "question": "What is the average valence grouped by time signature?"
+  },
+  {
+    "id": 20,
+    "group": 2,
+    "question": "Count the number of distinct artists in the database per genre."
+  },
+  {
+    "id": 21,
+    "group": 3,
+    "question": "What are the top 5 tracks with the highest danceability?"
+  },
+  {
+    "id": 22,
+    "group": 3,
+    "question": "List the top 10 most popular explicit tracks."
+  },
+  {
+    "id": 23,
+    "group": 3,
+    "question": "Which 3 artists have the highest average popularity across all their songs?"
+  },
+  {
+    "id": 24,
+    "group": 3,
+    "question": "What are the top 5 longest tracks by duration?"
+  },
+  {
+    "id": 25,
+    "group": 3,
+    "question": "List the top 10 loudest tracks in the database."
+  },
+  {
+    "id": 26,
+    "group": 3,
+    "question": "Which single track has the highest energy score?"
+  },
+  {
+    "id": 27,
+    "group": 3,
+    "question": "What are the top 5 most acoustic tracks with popularity greater than 50?"
+  },
+  {
+    "id": 28,
+    "group": 3,
+    "question": "List the top 3 genres with the highest average tempo."
+  },
+  {
+    "id": 29,
+    "group": 3,
+    "question": "Which 5 albums have the highest sum of track duration?"
+  },
+  {
+    "id": 30,
+    "group": 3,
+    "question": "Identify the top 10 tracks with the highest speechiness scores."
+  },
+  {
+    "id": 31,
+    "group": 4,
+    "question": "Calculate the mean popularity grouped by key and mode."
+  },
+  {
+    "id": 32,
+    "group": 4,
+    "question": "Compare the average energy of Major mode vs. Minor mode tracks."
+  },
+  {
+    "id": 33,
+    "group": 4,
+    "question": "What is the average danceability for each Key (0-11)?"
+  },
+  {
+    "id": 34,
+    "group": 4,
+    "question": "Find the average tempo grouped by Time Signature and Mode."
+  },
+  {
+    "id": 35,
+    "group": 4,
+    "question": "Compare the average loudness of explicit vs. non-explicit tracks."
+  },
+  {
+    "id": 36,
+    "group": 4,
+    "question": "What is the mean valence grouped by Key and Time Signature?"
+  },
+  {
+    "id": 37,
+    "group": 4,
+    "question": "Show the average popularity grouped by Key, ordered by Key."
+  },
+  {
+    "id": 38,
+    "group": 4,
+    "question": "Compare the max duration grouped by Mode (Major/Minor)."
+  },
+  {
+    "id": 39,
+    "group": 4,
+    "question": "Calculate the average instrumentalness grouped by Time Signature."
+  },
+  {
+    "id": 40,
+    "group": 4,
+    "question": "Calculate the average speechiness grouped by explicit status."
+  }
+]

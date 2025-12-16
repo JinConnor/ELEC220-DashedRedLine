@@ -1,0 +1,1402 @@
+[
+  {
+    "track_id": "6KwkVtXm8OUp2XffN5k7lY",
+    "track_name": "No Other Name",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.598) and danceability (0.369) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.598,
+      "danceability": 0.369,
+      "tempo": 148.014,
+      "valence": 0.0466
+    }
+  },
+  {
+    "track_id": "2dp5I5MJ8bQQHDoFaNRFtX",
+    "track_name": "Failed Organum",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.997) and danceability (0.171) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.997,
+      "danceability": 0.171,
+      "tempo": 122.223,
+      "valence": 0.0294
+    }
+  },
+  {
+    "track_id": "5avw06usmFkFrPjX8NxC40",
+    "track_name": "Save the Trees, Pt. 1",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.803) and danceability (0.173) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.803,
+      "danceability": 0.173,
+      "tempo": 75.564,
+      "valence": 0.0887
+    }
+  },
+  {
+    "track_id": "75hT0hvlESnDJstem0JgyR",
+    "track_name": "Merry Christmas",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.511) and danceability (0.683) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.511,
+      "danceability": 0.683,
+      "tempo": 109.991,
+      "valence": 0.598
+    }
+  },
+  {
+    "track_id": "4bY2oZGA5Br3pTE1Jd1IfY",
+    "track_name": "\u6708\u306e\u5927\u304d\u3055",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.941) and danceability (0.555) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.941,
+      "danceability": 0.555,
+      "tempo": 92.487,
+      "valence": 0.813
+    }
+  },
+  {
+    "track_id": "2zQt5C0AIv27RhfJCRZdZ4",
+    "track_name": "Jah Jah Revolta, Pt. 2",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.8) and danceability (0.776) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.8,
+      "danceability": 0.776,
+      "tempo": 143.989,
+      "valence": 0.583
+    }
+  },
+  {
+    "track_id": "6BctgCJXlgxYeR0ObhLdtR",
+    "track_name": "Please Stop Communicating",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.815) and danceability (0.627) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.815,
+      "danceability": 0.627,
+      "tempo": 119.197,
+      "valence": 0.532
+    }
+  },
+  {
+    "track_id": "1LDQFdGTEXOnycDC8CJ5p1",
+    "track_name": "A Form of Protest",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 60,
+    "justification": "Energy (0.933) and danceability (0.395) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.933,
+      "danceability": 0.395,
+      "tempo": 92.53,
+      "valence": 0.194
+    }
+  },
+  {
+    "track_id": "2DDR5F7bHFJBiX6lPPsT8O",
+    "track_name": "I'm Ready - Radio Edit",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.766) and danceability (0.914) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.766,
+      "danceability": 0.914,
+      "tempo": 126.632,
+      "valence": 0.9
+    }
+  },
+  {
+    "track_id": "2ScU6iEvgb0TIuKiyem9rg",
+    "track_name": "Proibida Pra Mim (Grazon) - Ao Vivo",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.976) and danceability (0.345) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.976,
+      "danceability": 0.345,
+      "tempo": 181.121,
+      "valence": 0.818
+    }
+  },
+  {
+    "track_id": "4ifiz8TRTNdG9ORNWh2P0Q",
+    "track_name": "I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 60,
+    "justification": "Energy (0.183) and danceability (0.469) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.183,
+      "danceability": 0.469,
+      "tempo": 139.592,
+      "valence": 0.381
+    }
+  },
+  {
+    "track_id": "5xWxnLpw8ooMW1nJwY2hui",
+    "track_name": "\u6642\u9593\u304c\u306a\u3044",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.675) and danceability (0.772) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.675,
+      "danceability": 0.772,
+      "tempo": 126.033,
+      "valence": 0.68
+    }
+  },
+  {
+    "track_id": "3i2L1PRDEwWcUC03y95UPG",
+    "track_name": "Sur",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 60,
+    "justification": "Energy (0.401) and danceability (0.423) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.401,
+      "danceability": 0.423,
+      "tempo": 111.213,
+      "valence": 0.507
+    }
+  },
+  {
+    "track_id": "46JGS5Gcz5TilUnqGGHnnl",
+    "track_name": "Pega pega (Participa\u00e7\u00e3o especial de Jojo Maronttinni) - Ao vivo",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.751) and danceability (0.511) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.751,
+      "danceability": 0.511,
+      "tempo": 158.1,
+      "valence": 0.732
+    }
+  },
+  {
+    "track_id": "5pq4v03P5PxMcnCagg4S3Z",
+    "track_name": "In Case You Didn\u2019t Know",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.299) and danceability (0.633) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.299,
+      "danceability": 0.633,
+      "tempo": 147.549,
+      "valence": 0.341
+    }
+  },
+  {
+    "track_id": "08HJeHs0U9iSbDWX0sWIem",
+    "track_name": "O Sopro do Fole",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.0856) and danceability (0.524) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.0856,
+      "danceability": 0.524,
+      "tempo": 93.672,
+      "valence": 0.316
+    }
+  },
+  {
+    "track_id": "198v7BbjXn2GTeI4NkBN39",
+    "track_name": "Vi Mam\u00e3e Oxum Na Cachoeira - Live",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.697) and danceability (0.59) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.697,
+      "danceability": 0.59,
+      "tempo": 126.911,
+      "valence": 0.815
+    }
+  },
+  {
+    "track_id": "6bl8PFDgYxbDZHk0LRQhhz",
+    "track_name": "Me Gabber - DJ Paul Elstak & The BeatKrusher Remix",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.928) and danceability (0.553) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.928,
+      "danceability": 0.553,
+      "tempo": 160.044,
+      "valence": 0.305
+    }
+  },
+  {
+    "track_id": "0b11D9D0hMOYCIMN3OKreM",
+    "track_name": "Into Your Arms (feat. Ava Max)",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.788) and danceability (0.504) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.788,
+      "danceability": 0.504,
+      "tempo": 170.039,
+      "valence": 0.228
+    }
+  },
+  {
+    "track_id": "2pXg8l1JGZ3hCyFqxirV13",
+    "track_name": "Mocca",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.696) and danceability (0.786) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.696,
+      "danceability": 0.786,
+      "tempo": 97.956,
+      "valence": 0.591
+    }
+  },
+  {
+    "track_id": "3dJj6o9o1fRgrojWjailuz",
+    "track_name": "Nobody Can Save Me",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.688) and danceability (0.645) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.688,
+      "danceability": 0.645,
+      "tempo": 139.957,
+      "valence": 0.433
+    }
+  },
+  {
+    "track_id": "0rWLHJnMyJaMFA8x9l8AT0",
+    "track_name": "all the good girls go to hell",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 60,
+    "justification": "Energy (0.446) and danceability (0.854) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.446,
+      "danceability": 0.854,
+      "tempo": 92.545,
+      "valence": 0.57
+    }
+  },
+  {
+    "track_id": "36kDrsAPQ62bI32WPrlJew",
+    "track_name": "Machine Spirit",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.956) and danceability (0.643) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.956,
+      "danceability": 0.643,
+      "tempo": 104.99,
+      "valence": 0.515
+    }
+  },
+  {
+    "track_id": "0lASm1brReAnrOirk2f0a2",
+    "track_name": "Bear Crawl",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.499) and danceability (0.738) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.499,
+      "danceability": 0.738,
+      "tempo": 88.916,
+      "valence": 0.806
+    }
+  },
+  {
+    "track_id": "1WhGXbgwPOTDPB4ZsJBIDG",
+    "track_name": "Time To Jack",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.863) and danceability (0.813) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.863,
+      "danceability": 0.813,
+      "tempo": 122.93,
+      "valence": 0.717
+    }
+  },
+  {
+    "track_id": "2xIbHYxBs1fiR4NkPc8z33",
+    "track_name": "Ready fi di party",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 60,
+    "justification": "Energy (0.616) and danceability (0.911) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.616,
+      "danceability": 0.911,
+      "tempo": 120.999,
+      "valence": 0.467
+    }
+  },
+  {
+    "track_id": "6NPTmYw2yMu0Oz0IJkoxeR",
+    "track_name": "Mis Noches Te Recuerdan",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.574) and danceability (0.643) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.574,
+      "danceability": 0.643,
+      "tempo": 108.002,
+      "valence": 0.845
+    }
+  },
+  {
+    "track_id": "0Xs1Yh44j5cIgUQtOCBcQj",
+    "track_name": "Sometimes Love",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.806) and danceability (0.652) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.806,
+      "danceability": 0.652,
+      "tempo": 107.883,
+      "valence": 0.88
+    }
+  },
+  {
+    "track_id": "5TcuM4sQFHK747kwB2q1Qy",
+    "track_name": "Everybody Loves Louis",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.189) and danceability (0.521) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.189,
+      "danceability": 0.521,
+      "tempo": 117.833,
+      "valence": 0.301
+    }
+  },
+  {
+    "track_id": "4bh9zPGpEX1yl9Do6rkhHr",
+    "track_name": "Planet Zero",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.964) and danceability (0.416) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.964,
+      "danceability": 0.416,
+      "tempo": 157.925,
+      "valence": 0.212
+    }
+  },
+  {
+    "track_id": "7vk7u7kaqw5A6BtkfoxQf3",
+    "track_name": "Do You?",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 40,
+    "justification": "Energy (0.101) and danceability (0.435) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.101,
+      "danceability": 0.435,
+      "tempo": 107.449,
+      "valence": 0.222
+    }
+  },
+  {
+    "track_id": "72jbDTw1piOOj770jWNeaG",
+    "track_name": "Paris",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.658) and danceability (0.653) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.658,
+      "danceability": 0.653,
+      "tempo": 99.99,
+      "valence": 0.219
+    }
+  },
+  {
+    "track_id": "4zD9RBG51Lj8bnQwolLnyu",
+    "track_name": "Wild Life",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.762) and danceability (0.479) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.762,
+      "danceability": 0.479,
+      "tempo": 115.956,
+      "valence": 0.0519
+    }
+  },
+  {
+    "track_id": "7MiYNyj5si5yiWyeSkgzqB",
+    "track_name": "Joda - Worakls Remix",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.678) and danceability (0.757) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.678,
+      "danceability": 0.757,
+      "tempo": 115.01,
+      "valence": 0.13
+    }
+  },
+  {
+    "track_id": "6suU440DRXoxpLNKWf46XJ",
+    "track_name": "O Resgate",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.732) and danceability (0.553) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.732,
+      "danceability": 0.553,
+      "tempo": 152.59,
+      "valence": 0.436
+    }
+  },
+  {
+    "track_id": "5ueWiIP0QQcAqbMutT1Ng0",
+    "track_name": "La Mala",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.787) and danceability (0.628) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.787,
+      "danceability": 0.628,
+      "tempo": 172.045,
+      "valence": 0.377
+    }
+  },
+  {
+    "track_id": "49Z1VQivkHoY5KGdUwMv5i",
+    "track_name": "Silo (feat. fknsyd)",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.933) and danceability (0.472) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.933,
+      "danceability": 0.472,
+      "tempo": 159.949,
+      "valence": 0.326
+    }
+  },
+  {
+    "track_id": "1WDDMw1k46OS4W2IGxmLzj",
+    "track_name": "Ferxxo 100",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.562) and danceability (0.705) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.562,
+      "danceability": 0.705,
+      "tempo": 163.893,
+      "valence": 0.569
+    }
+  },
+  {
+    "track_id": "5tmcGYwmon8ufw9igbwwKk",
+    "track_name": "Making Music",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.342) and danceability (0.782) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.342,
+      "danceability": 0.782,
+      "tempo": 115.018,
+      "valence": 0.345
+    }
+  },
+  {
+    "track_id": "5Iqh58mh9xHzOkXNorHibJ",
+    "track_name": "Ruega por M\u00ed (Prega Per Me)",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.404) and danceability (0.494) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.404,
+      "danceability": 0.494,
+      "tempo": 96.387,
+      "valence": 0.386
+    }
+  },
+  {
+    "track_id": "5llrpUzc5oZ4U2RLruiDeI",
+    "track_name": "Holding",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.702) and danceability (0.472) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.702,
+      "danceability": 0.472,
+      "tempo": 104.656,
+      "valence": 0.351
+    }
+  },
+  {
+    "track_id": "6jAoHpOWUd5dpBUy0PW7TR",
+    "track_name": "The Farthest Star",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.937) and danceability (0.552) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.937,
+      "danceability": 0.552,
+      "tempo": 134.98,
+      "valence": 0.347
+    }
+  },
+  {
+    "track_id": "0LoQuiekvzqx7n8flgEKzF",
+    "track_name": "Get It On",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.878) and danceability (0.728) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.878,
+      "danceability": 0.728,
+      "tempo": 126.59,
+      "valence": 0.911
+    }
+  },
+  {
+    "track_id": "34XYMzu7cmqQjItV8mJ77m",
+    "track_name": "Para dos",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 60,
+    "justification": "Energy (0.219) and danceability (0.633) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.219,
+      "danceability": 0.633,
+      "tempo": 118.814,
+      "valence": 0.537
+    }
+  },
+  {
+    "track_id": "60an8Fb1pH1MniTxTlo2l9",
+    "track_name": "Bloco do Carro Chefe",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.486) and danceability (0.818) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.486,
+      "danceability": 0.818,
+      "tempo": 113.192,
+      "valence": 0.637
+    }
+  },
+  {
+    "track_id": "5FPnjikbwlDMULCCCa6ZCJ",
+    "track_name": "Daughters",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.413) and danceability (0.674) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.413,
+      "danceability": 0.674,
+      "tempo": 124.893,
+      "valence": 0.503
+    }
+  },
+  {
+    "track_id": "5kVZxyMY1gfdCLiChsfjn1",
+    "track_name": "Yo No Soy Celoso",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.588) and danceability (0.872) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.588,
+      "danceability": 0.872,
+      "tempo": 142.004,
+      "valence": 0.93
+    }
+  },
+  {
+    "track_id": "2Fc99kfkQ1S2RilXcd6xIU",
+    "track_name": "Quieren Efectos",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.773) and danceability (0.553) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.773,
+      "danceability": 0.553,
+      "tempo": 96.617,
+      "valence": 0.597
+    }
+  },
+  {
+    "track_id": "47bweAQBrsV1Vi3hDmEIAo",
+    "track_name": "Boozed - Edit",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.978) and danceability (0.462) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.978,
+      "danceability": 0.462,
+      "tempo": 168.624,
+      "valence": 0.33
+    }
+  },
+  {
+    "track_id": "5i7s3sB1LzxeVz8CWVEpAO",
+    "track_name": "Talking Body - The Young Professionals Remix",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 60,
+    "justification": "Energy (0.579) and danceability (0.651) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.579,
+      "danceability": 0.651,
+      "tempo": 138.993,
+      "valence": 0.443
+    }
+  },
+  {
+    "track_id": "6xwqmrEshHeFlVI3hrc685",
+    "track_name": "Penurias",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.596) and danceability (0.329) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.596,
+      "danceability": 0.329,
+      "tempo": 167.831,
+      "valence": 0.413
+    }
+  },
+  {
+    "track_id": "21excOPd45gzWN8zCt8Vhw",
+    "track_name": "Angels From The Realms of Glory",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 60,
+    "justification": "Energy (0.322) and danceability (0.523) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.322,
+      "danceability": 0.523,
+      "tempo": 126.002,
+      "valence": 0.3
+    }
+  },
+  {
+    "track_id": "39NkxITdhS5BPBZ3ma2CTM",
+    "track_name": "My Hawai'i (feat. Sean Na'auao, Kaumakaiwa, Kumu Hina)",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.593) and danceability (0.726) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.593,
+      "danceability": 0.726,
+      "tempo": 139.924,
+      "valence": 0.857
+    }
+  },
+  {
+    "track_id": "14nEPCQLWtMqV4uE1cRHFv",
+    "track_name": "Vida Eterna",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.884) and danceability (0.31) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.884,
+      "danceability": 0.31,
+      "tempo": 75.023,
+      "valence": 0.314
+    }
+  },
+  {
+    "track_id": "1gexiILoiAONdvcXlzVQeE",
+    "track_name": "Ego Sum Deus",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 60,
+    "justification": "Energy (0.538) and danceability (0.636) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.538,
+      "danceability": 0.636,
+      "tempo": 115.983,
+      "valence": 0.0388
+    }
+  },
+  {
+    "track_id": "0mljrVHFeq2qgThql44LcI",
+    "track_name": "T\u00f4 isso aqui pra te beijar - Ao Vivo",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.761) and danceability (0.537) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.761,
+      "danceability": 0.537,
+      "tempo": 165.984,
+      "valence": 0.705
+    }
+  },
+  {
+    "track_id": "59wlTaYOL5tDUgXnbBQ3my",
+    "track_name": "A Moment Apart",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 40,
+    "justification": "Energy (0.663) and danceability (0.515) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.663,
+      "danceability": 0.515,
+      "tempo": 120.024,
+      "valence": 0.0756
+    }
+  },
+  {
+    "track_id": "2Qud6Q1KlK22qHcjUGlRpJ",
+    "track_name": "Sueltate Mah",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.785) and danceability (0.662) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.785,
+      "danceability": 0.662,
+      "tempo": 180.108,
+      "valence": 0.797
+    }
+  },
+  {
+    "track_id": "2Pp9osgyIcw6o1avfDDDhH",
+    "track_name": "Forever Young",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.961) and danceability (0.592) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.961,
+      "danceability": 0.592,
+      "tempo": 109.826,
+      "valence": 0.508
+    }
+  },
+  {
+    "track_id": "4xu38KnbRHbRHRwdg4KFul",
+    "track_name": "Box Fan Long Loop For Sleep",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 40,
+    "justification": "Energy (2.03e-05) and danceability (0.0) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 2.03e-05,
+      "danceability": 0.0,
+      "tempo": 0.0,
+      "valence": 0.0
+    }
+  },
+  {
+    "track_id": "3oRP6yGs5d0kFpGRRzzaS8",
+    "track_name": "\u56e0\u70ba\u4f60 \u6240\u4ee5\u6211",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.685) and danceability (0.47) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.685,
+      "danceability": 0.47,
+      "tempo": 152.103,
+      "valence": 0.488
+    }
+  },
+  {
+    "track_id": "19ZjBzxJ5ARxbln6Qmw1AN",
+    "track_name": "Corrina, Corrina",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.413) and danceability (0.481) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.413,
+      "danceability": 0.481,
+      "tempo": 127.591,
+      "valence": 0.681
+    }
+  },
+  {
+    "track_id": "3CmUas41TD2t8EGNZ85J9f",
+    "track_name": "Happy Holidays, You Bastard",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.99) and danceability (0.409) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.99,
+      "danceability": 0.409,
+      "tempo": 172.715,
+      "valence": 0.962
+    }
+  },
+  {
+    "track_id": "0y4iXXlpVFJSQjlx0vQ3MZ",
+    "track_name": "Forever",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.457) and danceability (0.763) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.457,
+      "danceability": 0.763,
+      "tempo": 117.996,
+      "valence": 0.0384
+    }
+  },
+  {
+    "track_id": "3F5DccNp39Waj4QjZBUPGO",
+    "track_name": "Messiah, HWV 56 / Pt. 2: XLII. \"Hallelujah\"",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 40,
+    "justification": "Energy (0.262) and danceability (0.434) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.262,
+      "danceability": 0.434,
+      "tempo": 103.015,
+      "valence": 0.256
+    }
+  },
+  {
+    "track_id": "7Afr3PKTtlFGHGiXYgnv6P",
+    "track_name": "I Like You",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.334) and danceability (0.624) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.334,
+      "danceability": 0.624,
+      "tempo": 157.92,
+      "valence": 0.397
+    }
+  },
+  {
+    "track_id": "0qjux3nULEYN7Yz9jijgWz",
+    "track_name": "GTA 2",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.652) and danceability (0.627) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.652,
+      "danceability": 0.627,
+      "tempo": 160.089,
+      "valence": 0.487
+    }
+  },
+  {
+    "track_id": "5f5DBTOW5Y6wPiKTVcYVkg",
+    "track_name": "Superlove",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 60,
+    "justification": "Energy (0.809) and danceability (0.753) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.809,
+      "danceability": 0.753,
+      "tempo": 119.991,
+      "valence": 0.409
+    }
+  },
+  {
+    "track_id": "5jyPgh9K0YlyhlVGQzFsbO",
+    "track_name": "On Repeat",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.801) and danceability (0.609) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.801,
+      "danceability": 0.609,
+      "tempo": 122.958,
+      "valence": 0.202
+    }
+  },
+  {
+    "track_id": "6Gx3Ry4ORogdMibbdITOuN",
+    "track_name": "Dhadak Title Track",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 40,
+    "justification": "Energy (0.312) and danceability (0.375) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.312,
+      "danceability": 0.375,
+      "tempo": 77.527,
+      "valence": 0.22
+    }
+  },
+  {
+    "track_id": "34a89MbC7QXsUsLkljLgXX",
+    "track_name": "Free Fallin'",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.504) and danceability (0.619) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.504,
+      "danceability": 0.619,
+      "tempo": 84.335,
+      "valence": 0.568
+    }
+  },
+  {
+    "track_id": "3zPVG3y3rEzyixSFhe3XYu",
+    "track_name": "Andorinha Machucada / Tudo de Novo / Pense em Mim (Ao Vivo)",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.501) and danceability (0.415) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.501,
+      "danceability": 0.415,
+      "tempo": 114.579,
+      "valence": 0.306
+    }
+  },
+  {
+    "track_id": "4YXKKnIZuk7UtXH5oC0ffa",
+    "track_name": "Lucille",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.708) and danceability (0.676) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.708,
+      "danceability": 0.676,
+      "tempo": 143.669,
+      "valence": 0.919
+    }
+  },
+  {
+    "track_id": "089tprIgsyFSOrZpugamLI",
+    "track_name": "Blame",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.68) and danceability (0.624) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.68,
+      "danceability": 0.624,
+      "tempo": 91.998,
+      "valence": 0.117
+    }
+  },
+  {
+    "track_id": "3RVKeAie8vdadw5r1PPBx5",
+    "track_name": "(Evil Hearted Me) Downright Evil",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.865) and danceability (0.593) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.865,
+      "danceability": 0.593,
+      "tempo": 157.96,
+      "valence": 0.969
+    }
+  },
+  {
+    "track_id": "7u1S5QZSwrWyNczrN9IAKR",
+    "track_name": "Doiloi",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.129) and danceability (0.343) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.129,
+      "danceability": 0.343,
+      "tempo": 124.396,
+      "valence": 0.0371
+    }
+  },
+  {
+    "track_id": "08r6N5mPmFMLhaXRZVfUbB",
+    "track_name": "If You'Re Smart",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 60,
+    "justification": "Energy (0.873) and danceability (0.571) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.873,
+      "danceability": 0.571,
+      "tempo": 179.841,
+      "valence": 0.0894
+    }
+  },
+  {
+    "track_id": "5YLHLxoZsodDWjqSgjhBf3",
+    "track_name": "Myself",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.561) and danceability (0.745) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.561,
+      "danceability": 0.745,
+      "tempo": 195.918,
+      "valence": 0.902
+    }
+  },
+  {
+    "track_id": "1mVn6LE3NukwuP1uAixzgT",
+    "track_name": "When Worlds Collide",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.903) and danceability (0.56) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.903,
+      "danceability": 0.56,
+      "tempo": 143.821,
+      "valence": 0.581
+    }
+  },
+  {
+    "track_id": "4zjuPxRdniuN7LZzI5aQNA",
+    "track_name": "Memory Cascades",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 40,
+    "justification": "Energy (0.343) and danceability (0.562) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.343,
+      "danceability": 0.562,
+      "tempo": 81.691,
+      "valence": 0.254
+    }
+  },
+  {
+    "track_id": "0CkwGzywZ3js4Hcmb0RkQn",
+    "track_name": "Heavy Metal Love",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.767) and danceability (0.768) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.767,
+      "danceability": 0.768,
+      "tempo": 125.029,
+      "valence": 0.457
+    }
+  },
+  {
+    "track_id": "2Yj1sRA7UENRp7p6tt8E1k",
+    "track_name": "Break Ups Suck Ass",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.327) and danceability (0.605) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.327,
+      "danceability": 0.605,
+      "tempo": 179.839,
+      "valence": 0.608
+    }
+  },
+  {
+    "track_id": "6OEHLXWw1PDfhbJLbNRi94",
+    "track_name": "Make Me Happy",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.639) and danceability (0.713) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.639,
+      "danceability": 0.713,
+      "tempo": 92.072,
+      "valence": 0.944
+    }
+  },
+  {
+    "track_id": "2B5a8L30R9vk3F9clonX5g",
+    "track_name": "Vuela paloma",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.374) and danceability (0.668) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.374,
+      "danceability": 0.668,
+      "tempo": 113.108,
+      "valence": 0.669
+    }
+  },
+  {
+    "track_id": "3AO4zBhbT0E8hxb9HMSmbM",
+    "track_name": "Obama and Hitler!",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.555) and danceability (0.705) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.555,
+      "danceability": 0.705,
+      "tempo": 116.073,
+      "valence": 0.661
+    }
+  },
+  {
+    "track_id": "6LFXmq8DuXrxoyrPz7c5Lw",
+    "track_name": "Ponto Final",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.829) and danceability (0.657) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.829,
+      "danceability": 0.657,
+      "tempo": 117.029,
+      "valence": 0.569
+    }
+  },
+  {
+    "track_id": "4UDmDIqJIbrW0hMBQMFOsM",
+    "track_name": "Stayin' Alive",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 60,
+    "justification": "Energy (0.535) and danceability (0.707) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.535,
+      "danceability": 0.707,
+      "tempo": 103.644,
+      "valence": 0.641
+    }
+  },
+  {
+    "track_id": "4RShNT9cGPE2jnrO82Ma0I",
+    "track_name": "Little Jack Horner - Original Mix",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.137) and danceability (0.495) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.137,
+      "danceability": 0.495,
+      "tempo": 139.73,
+      "valence": 0.271
+    }
+  },
+  {
+    "track_id": "0Y2v82GQsomVCqnfWpRSg5",
+    "track_name": "Dois Amores, Duas Paix\u00f5es",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.727) and danceability (0.496) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.727,
+      "danceability": 0.496,
+      "tempo": 166.068,
+      "valence": 0.501
+    }
+  },
+  {
+    "track_id": "3iRKwxW8ZDjmL9nKk3nisz",
+    "track_name": "Jaiye Foreign",
+    "bucket": "HIGH",
+    "prob": 0.74,
+    "popularity": 80,
+    "justification": "Energy (0.816) and danceability (0.82) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.816,
+      "danceability": 0.82,
+      "tempo": 108.98,
+      "valence": 0.861
+    }
+  },
+  {
+    "track_id": "1HGtTmgl1sEycuS9lJviWQ",
+    "track_name": "dooriyan",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.593) and danceability (0.735) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.593,
+      "danceability": 0.735,
+      "tempo": 160.07,
+      "valence": 0.475
+    }
+  },
+  {
+    "track_id": "69Yia3qCLw6N9U80WhLwLn",
+    "track_name": "Voice of the Soul",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 50,
+    "justification": "Energy (0.572) and danceability (0.158) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.572,
+      "danceability": 0.158,
+      "tempo": 79.176,
+      "valence": 0.347
+    }
+  },
+  {
+    "track_id": "73rQVihYf9bPXflrJiesqF",
+    "track_name": "Ressuscitou (Resurrecting) [Kemuel Nation]",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 60,
+    "justification": "Energy (0.509) and danceability (0.413) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.509,
+      "danceability": 0.413,
+      "tempo": 148.055,
+      "valence": 0.222
+    }
+  },
+  {
+    "track_id": "7G4FH6SEh9wgDRztDi3cDE",
+    "track_name": "Utan att f\u00f6rst\u00e5",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.733) and danceability (0.663) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.733,
+      "danceability": 0.663,
+      "tempo": 107.967,
+      "valence": 0.741
+    }
+  },
+  {
+    "track_id": "44Lv3y1OHRM7r8vuEAGTkW",
+    "track_name": "Liebe ist ...",
+    "bucket": "HIGH",
+    "prob": 0.9,
+    "popularity": 100,
+    "justification": "Energy (0.8) and danceability (0.631) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.8,
+      "danceability": 0.631,
+      "tempo": 156.941,
+      "valence": 0.782
+    }
+  },
+  {
+    "track_id": "5d4MvCqMJUgoVVCz16tvlD",
+    "track_name": "\u518d\u898b\u4e8c\u4e01\u76ee",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.3) and danceability (0.645) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.3,
+      "danceability": 0.645,
+      "tempo": 143.928,
+      "valence": 0.214
+    }
+  },
+  {
+    "track_id": "3JCcBtwNldEBd3O4hqYDWI",
+    "track_name": "No Me Arrodillo",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.542) and danceability (0.81) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.542,
+      "danceability": 0.81,
+      "tempo": 164.151,
+      "valence": 0.376
+    }
+  },
+  {
+    "track_id": "0fGDKi4UeXx8CypAvJdAj6",
+    "track_name": "F***k Orgus (Dance) - Dr. Rude Remix",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.867) and danceability (0.842) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.867,
+      "danceability": 0.842,
+      "tempo": 147.011,
+      "valence": 0.587
+    }
+  },
+  {
+    "track_id": "0NmnFMWMkTETNANGpVVqyc",
+    "track_name": "Wasteland",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 90,
+    "justification": "Energy (0.836) and danceability (0.563) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.836,
+      "danceability": 0.563,
+      "tempo": 141.923,
+      "valence": 0.657
+    }
+  },
+  {
+    "track_id": "6HhdFRM9un1Ojpz1A98pVi",
+    "track_name": "If We Ever - 2018 Remaster",
+    "bucket": "HIGH",
+    "prob": 0.66,
+    "popularity": 70,
+    "justification": "Energy (0.875) and danceability (0.542) relative to medians (0.685, 0.58) indicate this popularity level.",
+    "evidence": {
+      "energy": 0.875,
+      "danceability": 0.542,
+      "tempo": 172.973,
+      "valence": 0.114
+    }
+  }
+]

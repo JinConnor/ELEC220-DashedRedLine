@@ -1,0 +1,1302 @@
+[
+  {
+    "track_id": "6KwkVtXm8OUp2XffN5k7lY",
+    "track_name": "No Other Name",
+    "bucket": "LOW",
+    "prob": 0.15,
+    "popularity": 28,
+    "justification": "Low energy (0.598 < median 0.685) and extremely low valence (0.047 < median 0.464) suggest niche, non-danceable worship music appeal with limited mainstream crossover.",
+    "evidence": {
+      "energy": 0.598,
+      "valence": 0.0466,
+      "danceability": 0.369
+    }
+  },
+  {
+    "track_id": "2dp5I5MJ8bQQHDoFaNRFtX",
+    "track_name": "Failed Organum",
+    "bucket": "LOW",
+    "prob": 0.12,
+    "popularity": 18,
+    "justification": "Extremely low danceability (0.171 < median 0.58), very high instrumentalness (0.801), and high speechiness (0.118 > median 0.0489) indicate a niche grindcore track with abrasive, non-melodic qualities.",
+    "evidence": {
+      "danceability": 0.171,
+      "instrumentalness": 0.801,
+      "speechiness": 0.118
+    }
+  },
+  {
+    "track_id": "5avw06usmFkFrPjX8NxC40",
+    "track_name": "Save the Trees, Pt. 1",
+    "bucket": "LOW",
+    "prob": 0.08,
+    "popularity": 12,
+    "justification": "Very low danceability (0.173 < median 0.58), atypical time signature (3), and high speechiness (0.144 > median 0.0489) suggest experimental, non-danceable Iranian music with limited global reach.",
+    "evidence": {
+      "danceability": 0.173,
+      "time_signature": 3,
+      "speechiness": 0.144
+    }
+  },
+  {
+    "track_id": "75hT0hvlESnDJstem0JgyR",
+    "track_name": "Merry Christmas",
+    "bucket": "MID",
+    "prob": 0.45,
+    "popularity": 55,
+    "justification": "Above-median danceability (0.683 > 0.58) and positive valence (0.598 > 0.464) align with seasonal pop appeal, though moderate energy (0.511 < 0.685) and acousticness (0.406 > 0.169) keep it in the mid-range.",
+    "evidence": {
+      "danceability": 0.683,
+      "valence": 0.598,
+      "energy": 0.511
+    }
+  },
+  {
+    "track_id": "4bY2oZGA5Br3pTE1Jd1IfY",
+    "track_name": "月の大きさ",
+    "bucket": "MID",
+    "prob": 0.52,
+    "popularity": 62,
+    "justification": "Very high energy (0.941 > median 0.685), high valence (0.813 > median 0.464), and good danceability (0.555) suggest a catchy, upbeat J-idol track with strong regional appeal but limited global penetration.",
+    "evidence": {
+      "energy": 0.941,
+      "valence": 0.813,
+      "danceability": 0.555
+    }
+  },
+  {
+    "track_id": "2zQt5C0AIv27RhfJCRZdZ4",
+    "track_name": "Jah Jah Revolta, Pt. 2",
+    "bucket": "MID",
+    "prob": 0.48,
+    "popularity": 58,
+    "justification": "High danceability (0.776 > median 0.58) and energy (0.8 > median 0.685) align with danceable samba, but moderate valence (0.583 > 0.464) and niche genre place it in the mid-tier for popularity.",
+    "evidence": {
+      "danceability": 0.776,
+      "energy": 0.8,
+      "valence": 0.583
+    }
+  },
+  {
+    "track_id": "6BctgCJXlgxYeR0ObhLdtR",
+    "track_name": "Please Stop Communicating",
+    "bucket": "LOW",
+    "prob": 0.18,
+    "popularity": 27,
+    "justification": "Extremely high speechiness (0.911), atypical time signature (5), and high liveness (0.744 > median 0.132) indicate a niche comedy track with spoken word focus, limiting musical appeal.",
+    "evidence": {
+      "speechiness": 0.911,
+      "time_signature": 5,
+      "liveness": 0.744
+    }
+  },
+  {
+    "track_id": "1LDQFdGTEXOnycDC8CJ5p1",
+    "track_name": "A Form of Protest",
+    "bucket": "LOW",
+    "prob": 0.25,
+    "popularity": 38,
+    "justification": "Very high energy (0.933 > median 0.685) but extremely low acousticness (0.00000874) and low danceability (0.395 < 0.58) suggest aggressive, niche metalcore with limited mainstream accessibility.",
+    "evidence": {
+      "energy": 0.933,
+      "acousticness": 0.00000874,
+      "danceability": 0.395
+    }
+  },
+  {
+    "track_id": "2DDR5F7bHFJBiX6lPPsT8O",
+    "track_name": "I'm Ready - Radio Edit",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 65,
+    "justification": "Extremely high danceability (0.914 > median 0.58) and valence (0.9 > median 0.464), coupled with moderate energy (0.766 > 0.685) and high instrumentalness (0.65), align with disco revival appeal for dance floors.",
+    "evidence": {
+      "danceability": 0.914,
+      "valence": 0.9,
+      "instrumentalness": 0.65
+    }
+  },
+  {
+    "track_id": "2ScU6iEvgb0TIuKiyem9rg",
+    "track_name": "Proibida Pra Mim (Grazon) - Ao Vivo",
+    "bucket": "MID",
+    "prob": 0.50,
+    "popularity": 60,
+    "justification": "Extremely high energy (0.976 > median 0.685) and valence (0.818 > median 0.464) suggest a powerful live R&B track, though lower danceability (0.345 < 0.58) and high liveness (0.487 > 0.132) may limit its recorded appeal.",
+    "evidence": {
+      "energy": 0.976,
+      "valence": 0.818,
+      "liveness": 0.487
+    }
+  },
+  {
+    "track_id": "4ifiz8TRTNdG9ORNWh2P0Q",
+    "track_name": "I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show",
+    "bucket": "MID",
+    "prob": 0.47,
+    "popularity": 57,
+    "justification": "High acousticness (0.829 > median 0.169) and liveness (0.71 > median 0.132) create an intimate seasonal feel, but very low energy (0.183 < 0.685) and loudness (-15.414) limit its dynamic appeal to a specific mood.",
+    "evidence": {
+      "acousticness": 0.829,
+      "liveness": 0.71,
+      "energy": 0.183
+    }
+  },
+  {
+    "track_id": "5xWxnLpw8ooMW1nJwY2hui",
+    "track_name": "時間がない",
+    "bucket": "MID",
+    "prob": 0.53,
+    "popularity": 63,
+    "justification": "High danceability (0.772 > median 0.58), valence (0.68 > median 0.464), and moderate energy (0.675) align with accessible J-Pop, though lower loudness (-9.154) suggests a mellower production style.",
+    "evidence": {
+      "danceability": 0.772,
+      "valence": 0.68,
+      "loudness": -9.154
+    }
+  },
+  {
+    "track_id": "3i2L1PRDEwWcUC03y95UPG",
+    "track_name": "Sur",
+    "bucket": "LOW",
+    "prob": 0.22,
+    "popularity": 33,
+    "justification": "Low energy (0.401 < median 0.685), low danceability (0.423 < 0.58), and low loudness (-11.219) indicate a traditional, subdued tango with niche, older audience appeal.",
+    "evidence": {
+      "energy": 0.401,
+      "danceability": 0.423,
+      "loudness": -11.219
+    }
+  },
+  {
+    "track_id": "46JGS5Gcz5TilUnqGGHnnl",
+    "track_name": "Pega pega (Participação especial de Jojo Maronttinni) - Ao vivo",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 69,
+    "justification": "High energy (0.751 > median 0.685), valence (0.732 > median 0.464), and extremely high liveness (0.962) create an engaging live pagode experience, though high speechiness (0.0924 > 0.0489) may slightly limit replay value.",
+    "evidence": {
+      "energy": 0.751,
+      "valence": 0.732,
+      "liveness": 0.962
+    }
+  },
+  {
+    "track_id": "5pq4v03P5PxMcnCagg4S3Z",
+    "track_name": "In Case You Didn’t Know",
+    "bucket": "MID",
+    "prob": 0.40,
+    "popularity": 48,
+    "justification": "High acousticness (0.833 > median 0.169) and good danceability (0.633 > 0.58) suit the acoustic pop genre, but low energy (0.299 < 0.685) and valence (0.341 < 0.464) suggest a more somber, mood-specific appeal.",
+    "evidence": {
+      "acousticness": 0.833,
+      "danceability": 0.633,
+      "energy": 0.299
+    }
+  },
+  {
+    "track_id": "08HJeHs0U9iSbDWX0sWIem",
+    "track_name": "O Sopro do Fole",
+    "bucket": "LOW",
+    "prob": 0.10,
+    "popularity": 15,
+    "justification": "Extremely low energy (0.0856 < median 0.685), very low loudness (-17.766), and high speechiness (0.0999 > 0.0489) indicate a quiet, spoken-word-driven R&B track with very niche, artistic appeal.",
+    "evidence": {
+      "energy": 0.0856,
+      "loudness": -17.766,
+      "speechiness": 0.0999
+    }
+  },
+  {
+    "track_id": "198v7BbjXn2GTeI4NkBN39",
+    "track_name": "Vi Mamãe Oxum Na Cachoeira - Live",
+    "bucket": "MID",
+    "prob": 0.49,
+    "popularity": 59,
+    "justification": "High valence (0.815 > median 0.464), acousticness (0.75 > 0.169), and liveness (0.621 > 0.132) suggest an uplifting live samba recording with strong cultural roots, but moderate danceability (0.59) limits its dance floor potential.",
+    "evidence": {
+      "valence": 0.815,
+      "acousticness": 0.75,
+      "liveness": 0.621
+    }
+  },
+  {
+    "track_id": "6bl8PFDgYxbDZHk0LRQhhz",
+    "track_name": "Me Gabber - DJ Paul Elstak & The BeatKrusher Remix",
+    "bucket": "LOW",
+    "prob": 0.28,
+    "popularity": 42,
+    "justification": "Very high energy (0.928 > median 0.685) and speechiness (0.13 > 0.0489) are characteristic of hardstyle, but the niche genre, low valence (0.305 < 0.464), and high tempo (160.044) limit its mainstream acceptance.",
+    "evidence": {
+      "energy": 0.928,
+      "speechiness": 0.13,
+      "valence": 0.305
+    }
+  },
+  {
+    "track_id": "0b11D9D0hMOYCIMN3OKreM",
+    "track_name": "Into Your Arms (feat. Ava Max)",
+    "bucket": "HIGH",
+    "prob": 0.75,
+    "popularity": 82,
+    "justification": "Good energy (0.788 > median 0.685) and danceability (0.504), combined with mainstream pop features (featuring Ava Max) and high speechiness (0.215 > 0.0489) for a conversational edge, indicate strong chart potential.",
+    "evidence": {
+      "energy": 0.788,
+      "danceability": 0.504,
+      "speechiness": 0.215
+    }
+  },
+  {
+    "track_id": "2pXg8l1JGZ3hCyFqxirV13",
+    "track_name": "Mocca",
+    "bucket": "MID",
+    "prob": 0.56,
+    "popularity": 67,
+    "justification": "High danceability (0.786 > median 0.58) and valence (0.591 > 0.464) make it catchy, and very high speechiness (0.352 > 0.0489) gives it a modern reggae/rap fusion appeal, though it may not cross over fully to pop.",
+    "evidence": {
+      "danceability": 0.786,
+      "valence": 0.591,
+      "speechiness": 0.352
+    }
+  },
+  {
+    "track_id": "3dJj6o9o1fRgrojWjailuz",
+    "track_name": "Nobody Can Save Me",
+    "bucket": "HIGH",
+    "prob": 0.78,
+    "popularity": 85,
+    "justification": "Good danceability (0.645 > median 0.58) and energy (0.688 > 0.685) from a globally recognized rock band (Linkin Park), combined with moderate valence (0.433) and low acousticness (0.0107), align with mainstream alternative rock appeal.",
+    "evidence": {
+      "danceability": 0.645,
+      "energy": 0.688,
+      "valence": 0.433
+    }
+  },
+  {
+    "track_id": "0rWLHJnMyJaMFA8x9l8AT0",
+    "track_name": "all the good girls go to hell",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 88,
+    "justification": "Very high danceability (0.854 > median 0.58), moderate valence (0.57 > 0.464), and high speechiness (0.198 > 0.0489) from Billie Eilish create a modern, dark-pop track with strong mainstream and alternative crossover appeal.",
+    "evidence": {
+      "danceability": 0.854,
+      "valence": 0.57,
+      "speechiness": 0.198
+    }
+  },
+  {
+    "track_id": "36kDrsAPQ62bI32WPrlJew",
+    "track_name": "Machine Spirit",
+    "bucket": "MID",
+    "prob": 0.50,
+    "popularity": 60,
+    "justification": "Very high energy (0.956 > median 0.685) and good danceability (0.643 > 0.58) suit the club genre, and high instrumentalness (0.78) suggests an electronic focus, but moderate valence (0.515 > 0.464) and niche appeal keep it from the top tier.",
+    "evidence": {
+      "energy": 0.956,
+      "danceability": 0.643,
+      "instrumentalness": 0.78
+    }
+  },
+  {
+    "track_id": "0lASm1brReAnrOirk2f0a2",
+    "track_name": "Bear Crawl",
+    "bucket": "LOW",
+    "prob": 0.15,
+    "popularity": 22,
+    "justification": "Extremely high speechiness (0.546), low energy (0.499 < median 0.685), and the kids' genre context indicate an instructional/dance tutorial track with very limited musical appeal outside its specific purpose.",
+    "evidence": {
+      "speechiness": 0.546,
+      "energy": 0.499,
+      "valence": 0.806
+    }
+  },
+  {
+    "track_id": "1WhGXbgwPOTDPB4ZsJBIDG",
+    "track_name": "Time To Jack",
+    "bucket": "MID",
+    "prob": 0.45,
+    "popularity": 54,
+    "justification": "High danceability (0.813 > median 0.58) and energy (0.863 > 0.685) are classic house signatures, and high instrumentalness (0.89) aligns with the genre's focus on rhythm, giving it retro appeal but not top-charting modern popularity.",
+    "evidence": {
+      "danceability": 0.813,
+      "energy": 0.863,
+      "instrumentalness": 0.89
+    }
+  },
+  {
+    "track_id": "2xIbHYxBs1fiR4NkPc8z33",
+    "track_name": "Ready fi di party",
+    "bucket": "MID",
+    "prob": 0.52,
+    "popularity": 62,
+    "justification": "Extremely high danceability (0.911 > median 0.58) and high speechiness (0.272 > 0.0489) are perfect for dancehall, but lower energy (0.616 < 0.685) and moderate valence (0.467) suggest it's more of a groove than a peak-time anthem.",
+    "evidence": {
+      "danceability": 0.911,
+      "speechiness": 0.272,
+      "energy": 0.616
+    }
+  },
+  {
+    "track_id": "6NPTmYw2yMu0Oz0IJkoxeR",
+    "track_name": "Mis Noches Te Recuerdan",
+    "bucket": "MID",
+    "prob": 0.48,
+    "popularity": 58,
+    "justification": "Good danceability (0.643 > median 0.58) and very high valence (0.845 > 0.464) create an upbeat rock-n-roll feel, but moderate energy (0.574 < 0.685) and high acousticness (0.583 > 0.169) suggest a more traditional, less aggressive production.",
+    "evidence": {
+      "danceability": 0.643,
+      "valence": 0.845,
+      "acousticness": 0.583
+    }
+  },
+  {
+    "track_id": "0Xs1Yh44j5cIgUQtOCBcQj",
+    "track_name": "Sometimes Love",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 66,
+    "justification": "High energy (0.806 > median 0.685), very high valence (0.88 > 0.464), and good danceability (0.652 > 0.58) combine for a catchy, positive dancehall track with strong regional appeal and some crossover potential.",
+    "evidence": {
+      "energy": 0.806,
+      "valence": 0.88,
+      "danceability": 0.652
+    }
+  },
+  {
+    "track_id": "5TcuM4sQFHK747kwB2q1Qy",
+    "track_name": "Everybody Loves Louis",
+    "bucket": "LOW",
+    "prob": 0.25,
+    "popularity": 37,
+    "justification": "Very low energy (0.189 < median 0.685), high acousticness (0.892 > 0.169), and low valence (0.301 < 0.464) indicate a slow, theatrical show-tune with niche appeal limited primarily to fans of musical theater.",
+    "evidence": {
+      "energy": 0.189,
+      "acousticness": 0.892,
+      "valence": 0.301
+    }
+  },
+  {
+    "track_id": "4bh9zPGpEX1yl9Do6rkhHr",
+    "track_name": "Planet Zero",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 69,
+    "justification": "Extremely high energy (0.964 > median 0.685) and loudness (-2.967 > -7.004) create an aggressive modern rock sound, and high liveness (0.473 > 0.132) adds a raw feel, but low valence (0.212 < 0.464) and speechiness (0.112 > 0.0489) may limit its positivity.",
+    "evidence": {
+      "energy": 0.964,
+      "loudness": -2.967,
+      "valence": 0.212
+    }
+  },
+  {
+    "track_id": "7vk7u7kaqw5A6BtkfoxQf3",
+    "track_name": "Do You?",
+    "bucket": "LOW",
+    "prob": 0.20,
+    "popularity": 30,
+    "justification": "Extremely low energy (0.101 < median 0.685), very high acousticness (0.992 > 0.169), and high instrumentalness (0.926) define a quiet, contemplative new-age piano piece with minimal mainstream appeal.",
+    "evidence": {
+      "energy": 0.101,
+      "acousticness": 0.992,
+      "instrumentalness": 0.926
+    }
+  },
+  {
+    "track_id": "72jbDTw1piOOj770jWNeaG",
+    "track_name": "Paris",
+    "bucket": "HIGH",
+    "prob": 0.85,
+    "popularity": 90,
+    "justification": "Good danceability (0.653 > median 0.58) and energy (0.658 > 0.685) from The Chainsmokers, combined with low acousticness (0.0215) and speechiness (0.0304 < 0.0489), create a polished, mainstream EDM-pop hit with wide appeal.",
+    "evidence": {
+      "danceability": 0.653,
+      "energy": 0.658,
+      "acousticness": 0.0215
+    }
+  },
+  {
+    "track_id": "4zD9RBG51Lj8bnQwolLnyu",
+    "track_name": "Wild Life",
+    "bucket": "MID",
+    "prob": 0.53,
+    "popularity": 64,
+    "justification": "High energy (0.762 > median 0.685) from OneRepublic suggests an anthemic quality, but extremely low valence (0.0519 < 0.464) and moderate danceability (0.479 < 0.58) create a somber, driving track that may not achieve peak pop positivity.",
+    "evidence": {
+      "energy": 0.762,
+      "valence": 0.0519,
+      "danceability": 0.479
+    }
+  },
+  {
+    "track_id": "7MiYNyj5si5yiWyeSkgzqB",
+    "track_name": "Joda - Worakls Remix",
+    "bucket": "MID",
+    "prob": 0.46,
+    "popularity": 56,
+    "justification": "High danceability (0.757 > median 0.58) and instrumentalness (0.849) suit the progressive techno genre, but lower energy (0.678) and very low valence (0.13 < 0.464) create a moody, club-oriented track with niche rather than mass appeal.",
+    "evidence": {
+      "danceability": 0.757,
+      "instrumentalness": 0.849,
+      "valence": 0.13
+    }
+  },
+  {
+    "track_id": "6suU440DRXoxpLNKWf46XJ",
+    "track_name": "O Resgate",
+    "bucket": "MID",
+    "prob": 0.51,
+    "popularity": 61,
+    "justification": "High energy (0.732 > median 0.685), very high speechiness (0.262 > 0.0489), and high acousticness (0.622 > 0.169) combine for a lyrical, driven Brazilian funk track with strong regional appeal but linguistic barriers globally.",
+    "evidence": {
+      "energy": 0.732,
+      "speechiness": 0.262,
+      "acousticness": 0.622
+    }
+  },
+  {
+    "track_id": "5ueWiIP0QQcAqbMutT1Ng0",
+    "track_name": "La Mala",
+    "bucket": "MID",
+    "prob": 0.62,
+    "popularity": 74,
+    "justification": "Good danceability (0.628 > median 0.58) and energy (0.787 > 0.685) align with current reggaeton trends, and high speechiness (0.139 > 0.0489) adds a rap edge, though moderate valence (0.377 < 0.464) tempers its outright joyous feel.",
+    "evidence": {
+      "danceability": 0.628,
+      "energy": 0.787,
+      "speechiness": 0.139
+    }
+  },
+  {
+    "track_id": "49Z1VQivkHoY5KGdUwMv5i",
+    "track_name": "Silo (feat. fknsyd)",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 66,
+    "justification": "Very high energy (0.933 > median 0.685) and moderate instrumentalness (0.367) create an intense electronic drop, but low danceability (0.472 < 0.58) and valence (0.326 < 0.464) place it in a niche, aggressive subgenre rather than mainstream EDM.",
+    "evidence": {
+      "energy": 0.933,
+      "instrumentalness": 0.367,
+      "danceability": 0.472
+    }
+  },
+  {
+    "track_id": "1WDDMw1k46OS4W2IGxmLzj",
+    "track_name": "Ferxxo 100",
+    "bucket": "HIGH",
+    "prob": 0.80,
+    "popularity": 86,
+    "justification": "High danceability (0.705 > median 0.58), good energy (0.562), and valence (0.569 > 0.464) from a popular Latin artist (Feid) combine with a fast tempo (163.893) for a catchy, rhythmic pop-reggaeton track with strong streaming potential.",
+    "evidence": {
+      "danceability": 0.705,
+      "valence": 0.569,
+      "tempo": 163.893
+    }
+  },
+  {
+    "track_id": "5tmcGYwmon8ufw9igbwwKk",
+    "track_name": "Making Music",
+    "bucket": "LOW",
+    "prob": 0.18,
+    "popularity": 27,
+    "justification": "Low energy (0.342 < median 0.685), low loudness (-15.203), and the kids' genre context indicate an educational, low-intensity song with minimal appeal outside of children's entertainment or learning environments.",
+    "evidence": {
+      "energy": 0.342,
+      "loudness": -15.203,
+      "speechiness": 0.0721
+    }
+  },
+  {
+    "track_id": "5Iqh58mh9xHzOkXNorHibJ",
+    "track_name": "Ruega por Mí (Prega Per Me)",
+    "bucket": "LOW",
+    "prob": 0.22,
+    "popularity": 33,
+    "justification": "Low energy (0.404 < median 0.685), high acousticness (0.847 > 0.169), and an atypical time signature (3) suggest a traditional, ballad-style rock-n-roll track with older, niche appeal rather than contemporary relevance.",
+    "evidence": {
+      "energy": 0.404,
+      "acousticness": 0.847,
+      "time_signature": 3
+    }
+  },
+  {
+    "track_id": "5llrpUzc5oZ4U2RLruiDeI",
+    "track_name": "Holding",
+    "bucket": "LOW",
+    "prob": 0.25,
+    "popularity": 38,
+    "justification": "Low danceability (0.472 < median 0.58), very high acousticness (0.82 > 0.169), and long duration (537106 ms) indicate a sprawling, instrumentation-focused bluegrass jam with niche appeal for Americana enthusiasts.",
+    "evidence": {
+      "danceability": 0.472,
+      "acousticness": 0.82,
+      "duration_ms": 537106
+    }
+  },
+  {
+    "track_id": "6jAoHpOWUd5dpBUy0PW7TR",
+    "track_name": "The Farthest Star",
+    "bucket": "MID",
+    "prob": 0.47,
+    "popularity": 57,
+    "justification": "Very high energy (0.937 > median 0.685) and driving tempo (134.98) are hallmarks of industrial rock, but low valence (0.347 < 0.464) and moderate danceability (0.552 < 0.58) keep it within its genre's dedicated fanbase.",
+    "evidence": {
+      "energy": 0.937,
+      "tempo": 134.98,
+      "valence": 0.347
+    }
+  },
+  {
+    "track_id": "0LoQuiekvzqx7n8flgEKzF",
+    "track_name": "Get It On",
+    "bucket": "MID",
+    "prob": 0.60,
+    "popularity": 72,
+    "justification": "High danceability (0.728 > median 0.58), very high valence (0.911 > 0.464), and high energy (0.878 > 0.685) make this a classic, upbeat rock track with enduring appeal, though its vintage production may limit reach with youngest demographics.",
+    "evidence": {
+      "danceability": 0.728,
+      "valence": 0.911,
+      "energy": 0.878
+    }
+  },
+  {
+    "track_id": "34XYMzu7cmqQjItV8mJ77m",
+    "track_name": "Para dos",
+    "bucket": "LOW",
+    "prob": 0.20,
+    "popularity": 30,
+    "justification": "Low energy (0.219 < median 0.685), high instrumentalness (0.692), and moderate danceability (0.633 > 0.58) define an instrumental tango piece primarily for dancing or background listening, with very niche commercial appeal.",
+    "evidence": {
+      "energy": 0.219,
+      "instrumentalness": 0.692,
+      "danceability": 0.633
+    }
+  },
+  {
+    "track_id": "60an8Fb1pH1MniTxTlo2l9",
+    "track_name": "Bloco do Carro Chefe",
+    "bucket": "MID",
+    "prob": 0.54,
+    "popularity": 65,
+    "justification": "Very high danceability (0.818 > median 0.58) and speechiness (0.394 > 0.0489) are key for Brazilian funk, and an atypical time signature (5) adds rhythmic interest, creating a party track with strong regional but limited global recognition.",
+    "evidence": {
+      "danceability": 0.818,
+      "speechiness": 0.394,
+      "time_signature": 5
+    }
+  },
+  {
+    "track_id": "5FPnjikbwlDMULCCCa6ZCJ",
+    "track_name": "Daughters",
+    "bucket": "HIGH",
+    "prob": 0.78,
+    "popularity": 85,
+    "justification": "Good danceability (0.674 > median 0.58), high acousticness (0.836 > 0.169), and positive valence (0.503 > 0.464) from John Mayer create a heartfelt, accessible singer-songwriter pop song with strong crossover and radio appeal.",
+    "evidence": {
+      "danceability": 0.674,
+      "acousticness": 0.836,
+      "valence": 0.503
+    }
+  },
+  {
+    "track_id": "5kVZxyMY1gfdCLiChsfjn1",
+    "track_name": "Yo No Soy Celoso",
+    "bucket": "HIGH",
+    "prob": 0.88,
+    "popularity": 92,
+    "justification": "Extremely high danceability (0.872 > median 0.58) and valence (0.93 > 0.464) from Bad Bunny, a global superstar, combined with good energy (0.588) and tempo (142.004), make this a likely chart-topping reggaeton hit.",
+    "evidence": {
+      "danceability": 0.872,
+      "valence": 0.93,
+      "tempo": 142.004
+    }
+  },
+  {
+    "track_id": "2Fc99kfkQ1S2RilXcd6xIU",
+    "track_name": "Quieren Efectos",
+    "bucket": "MID",
+    "prob": 0.45,
+    "popularity": 54,
+    "justification": "High energy (0.773 > median 0.685), high instrumentalness (0.865), and positive valence (0.597 > 0.464) create a lively, groove-based afrobeat instrumental, appealing to world music and dance enthusiasts but not mainstream pop audiences.",
+    "evidence": {
+      "energy": 0.773,
+      "instrumentalness": 0.865,
+      "valence": 0.597
+    }
+  },
+  {
+    "track_id": "47bweAQBrsV1Vi3hDmEIAo",
+    "track_name": "Boozed - Edit",
+    "bucket": "MID",
+    "prob": 0.50,
+    "popularity": 60,
+    "justification": "Extremely high energy (0.978 > median 0.685) and fast tempo (168.624) define hardcore/happy hardcore, but low valence (0.33 < 0.464) and moderate instrumentalness (0.42) place it in a high-energy yet niche electronic subgenre.",
+    "evidence": {
+      "energy": 0.978,
+      "tempo": 168.624,
+      "valence": 0.33
+    }
+  },
+  {
+    "track_id": "5i7s3sB1LzxeVz8CWVEpAO",
+    "track_name": "Talking Body - The Young Professionals Remix",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 69,
+    "justification": "Good danceability (0.651 > median 0.58) and valence (0.443) from Tove Lo's original pop track, remixed with moderate energy (0.579), gives it club and streaming appeal, though the remix status may not surpass the original's peak.",
+    "evidence": {
+      "danceability": 0.651,
+      "valence": 0.443,
+      "energy": 0.579
+    }
+  },
+  {
+    "track_id": "6xwqmrEshHeFlVI3hrc685",
+    "track_name": "Penurias",
+    "bucket": "LOW",
+    "prob": 0.28,
+    "popularity": 42,
+    "justification": "Low danceability (0.329 < median 0.58), high tempo (167.831), and low loudness (-11.17) suggest a frantic but sonically subdued rockabilly track, appealing to genre purists but lacking broad melodic or rhythmic hooks.",
+    "evidence": {
+      "danceability": 0.329,
+      "tempo": 167.831,
+      "loudness": -11.17
+    }
+  },
+  {
+    "track_id": "21excOPd45gzWN8zCt8Vhw",
+    "track_name": "Angels From The Realms of Glory",
+    "bucket": "LOW",
+    "prob": 0.30,
+    "popularity": 45,
+    "justification": "Low energy (0.322 < median 0.685), moderate acousticness (0.535 > 0.169), and seasonal Christmas theme create a traditional carol with time-limited annual appeal and a specific, non-secular audience.",
+    "evidence": {
+      "energy": 0.322,
+      "acousticness": 0.535,
+      "valence": 0.3
+    }
+  },
+  {
+    "track_id": "39NkxITdhS5BPBZ3ma2CTM",
+    "track_name": "My Hawai'i (feat. Sean Na'auao, Kaumakaiwa, Kumu Hina)",
+    "bucket": "MID",
+    "prob": 0.52,
+    "popularity": 62,
+    "justification": "High danceability (0.726 > median 0.58), very high valence (0.857 > 0.464), and high liveness (0.527 > 0.132) suggest a joyful, communal J-rock track with strong cultural and regional appeal in Hawaii and Japan.",
+    "evidence": {
+      "danceability": 0.726,
+      "valence": 0.857,
+      "liveness": 0.527
+    }
+  },
+  {
+    "track_id": "14nEPCQLWtMqV4uE1cRHFv",
+    "track_name": "Vida Eterna",
+    "bucket": "LOW",
+    "prob": 0.32,
+    "popularity": 48,
+    "justification": "Very high energy (0.884 > median 0.685) but very low danceability (0.31 < 0.58) and slow tempo (75.023) create a heavy, lumbering metal sound that is powerful but inaccessible to non-metal fans.",
+    "evidence": {
+      "energy": 0.884,
+      "danceability": 0.31,
+      "tempo": 75.023
+    }
+  },
+  {
+    "track_id": "1gexiILoiAONdvcXlzVQeE",
+    "track_name": "Ego Sum Deus",
+    "bucket": "LOW",
+    "prob": 0.20,
+    "popularity": 30,
+    "justification": "Very low valence (0.0388 < median 0.464), high instrumentalness (0.881), and moderate danceability (0.636 > 0.58) indicate a dark, atmospheric club track with minimal melodic hooks, appealing to a niche electronic audience.",
+    "evidence": {
+      "valence": 0.0388,
+      "instrumentalness": 0.881,
+      "danceability": 0.636
+    }
+  },
+  {
+    "track_id": "0mljrVHFeq2qgThql44LcI",
+    "track_name": "Tô isso aqui pra te beijar - Ao Vivo",
+    "bucket": "MID",
+    "prob": 0.56,
+    "popularity": 67,
+    "justification": "High energy (0.761 > median 0.685), valence (0.705 > 0.464), and liveness (0.472 > 0.132) create an engaging live pagode recording, with good danceability (0.537) and acousticness (0.543 > 0.169) for authentic regional appeal.",
+    "evidence": {
+      "energy": 0.761,
+      "valence": 0.705,
+      "liveness": 0.472
+    }
+  },
+  {
+    "track_id": "59wlTaYOL5tDUgXnbBQ3my",
+    "track_name": "A Moment Apart",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 69,
+    "justification": "High instrumentalness (0.668) and liveness (0.494 > 0.132) define ODESZA's cinematic chill electronic style, with moderate danceability (0.515 < 0.58) and very low valence (0.0756 < 0.464) creating atmospheric, mood-based appeal.",
+    "evidence": {
+      "instrumentalness": 0.668,
+      "liveness": 0.494,
+      "valence": 0.0756
+    }
+  },
+  {
+    "track_id": "2Qud6Q1KlK22qHcjUGlRpJ",
+    "track_name": "Sueltate Mah",
+    "bucket": "MID",
+    "prob": 0.62,
+    "popularity": 74,
+    "justification": "Good danceability (0.662 > median 0.58), high valence (0.797 > 0.464), and very high speechiness (0.203 > 0.0489) align with the rap-sung style of modern reggaeton, giving it strong streaming potential in Latin markets.",
+    "evidence": {
+      "danceability": 0.662,
+      "valence": 0.797,
+      "speechiness": 0.203
+    }
+  },
+  {
+    "track_id": "2Pp9osgyIcw6o1avfDDDhH",
+    "track_name": "Forever Young",
+    "bucket": "HIGH",
+    "prob": 0.90,
+    "popularity": 95,
+    "justification": "Extremely high energy (0.961 > median 0.685), high loudness (-1.807 > -7.004), and good valence (0.508 > 0.464) from BLACKPINK create a explosive, anthemic K-pop track designed for massive global fandoms and chart success.",
+    "evidence": {
+      "energy": 0.961,
+      "loudness": -1.807,
+      "valence": 0.508
+    }
+  },
+  {
+    "track_id": "4xu38KnbRHbRHRwdg4KFul",
+    "track_name": "Box Fan Long Loop For Sleep",
+    "bucket": "LOW",
+    "prob": 0.05,
+    "popularity": 8,
+    "justification": "Non-musical attributes: zero danceability (0.0), near-zero energy (0.0000203), zero tempo (0.0), and zero time signature classify this as a functional noise track for sleep, with effectively zero musical popularity.",
+    "evidence": {
+      "danceability": 0.0,
+      "energy": 0.0000203,
+      "tempo": 0.0
+    }
+  },
+  {
+    "track_id": "3oRP6yGs5d0kFpGRRzzaS8",
+    "track_name": "因為你 所以我",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 66,
+    "justification": "Moderate danceability (0.47 < median 0.58) and valence (0.488 > 0.464) from the popular band Mayday, with high energy (0.685 > 0.685) and tempo (152.103), create an uplifting Mandopop rock song with strong regional popularity in Taiwan/China.",
+    "evidence": {
+      "danceability": 0.47,
+      "valence": 0.488,
+      "tempo": 152.103
+    }
+  },
+  {
+    "track_id": "19ZjBzxJ5ARxbln6Qmw1AN",
+    "track_name": "Corrina, Corrina",
+    "bucket": "LOW",
+    "prob": 0.25,
+    "popularity": 38,
+    "justification": "Low energy (0.413 < median 0.685), high acousticness (0.798 > 0.169), and moderate valence (0.681 > 0.464) define a classic rockabilly ballad with retro charm but limited streaming appeal among younger, mainstream audiences.",
+    "evidence": {
+      "energy": 0.413,
+      "acousticness": 0.798,
+      "valence": 0.681
+    }
+  },
+  {
+    "track_id": "3CmUas41TD2t8EGNZ85J9f",
+    "track_name": "Happy Holidays, You Bastard",
+    "bucket": "MID",
+    "prob": 0.52,
+    "popularity": 62,
+    "justification": "Extremely high energy (0.99 > median 0.685) and valence (0.962 > 0.464) from blink-182 create a chaotic, humorous punk Christmas song with strong cult and nostalgic appeal, though its short duration (42440 ms) and explicit content limit radio play.",
+    "evidence": {
+      "energy": 0.99,
+      "valence": 0.962,
+      "duration_ms": 42440
+    }
+  },
+  {
+    "track_id": "0y4iXXlpVFJSQjlx0vQ3MZ",
+    "track_name": "Forever",
+    "bucket": "LOW",
+    "prob": 0.22,
+    "popularity": 33,
+    "justification": "Low energy (0.457 < median 0.685), extremely low valence (0.0384 < 0.464), and high acousticness (0.796 > 0.169) create a somber, introspective French electronic track with very niche, mood-specific appeal.",
+    "evidence": {
+      "energy": 0.457,
+      "valence": 0.0384,
+      "acousticness": 0.796
+    }
+  },
+  {
+    "track_id": "3F5DccNp39Waj4QjZBUPGO",
+    "track_name": "Messiah, HWV 56 / Pt. 2: XLII. \"Hallelujah\"",
+    "bucket": "LOW",
+    "prob": 0.25,
+    "popularity": 38,
+    "justification": "Low energy (0.262 < median 0.685), high acousticness (0.959 > 0.169), and high instrumentalness (0.6) define a classical choral piece with timeless cultural recognition but extremely limited streaming popularity as a standalone track.",
+    "evidence": {
+      "energy": 0.262,
+      "acousticness": 0.959,
+      "instrumentalness": 0.6
+    }
+  },
+  {
+    "track_id": "7Afr3PKTtlFGHGiXYgnv6P",
+    "track_name": "I Like You",
+    "bucket": "MID",
+    "prob": 0.48,
+    "popularity": 58,
+    "justification": "Good danceability (0.624 > median 0.58) and valence (0.397) suit Ben Rector's piano pop style, but low energy (0.334 < 0.685) and loudness (-11.89) create a subdued, intimate track with moderate mainstream singer-songwriter appeal.",
+    "evidence": {
+      "danceability": 0.624,
+      "valence": 0.397,
+      "loudness": -11.89
+    }
+  },
+  {
+    "track_id": "0qjux3nULEYN7Yz9jijgWz",
+    "track_name": "GTA 2",
+    "bucket": "LOW",
+    "prob": 0.32,
+    "popularity": 48,
+    "justification": "Good danceability (0.627 > median 0.58) and energy (0.652) are offset by the niche 'sad' genre classification, high speechiness (0.122 > 0.0489), and moderate valence (0.487 > 0.464), suggesting emo-rap with limited crossover.",
+    "evidence": {
+      "danceability": 0.627,
+      "energy": 0.652,
+      "speechiness": 0.122
+    }
+  },
+  {
+    "track_id": "5f5DBTOW5Y6wPiKTVcYVkg",
+    "track_name": "Superlove",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 66,
+    "justification": "High danceability (0.753 > median 0.58) and energy (0.809 > 0.685) create an upbeat French pop track, with moderate valence (0.409 < 0.464) and acousticness (0.317 > 0.169) giving it a balanced, radio-friendly sound.",
+    "evidence": {
+      "danceability": 0.753,
+      "energy": 0.809,
+      "acousticness": 0.317
+    }
+  },
+  {
+    "track_id": "5jyPgh9K0YlyhlVGQzFsbO",
+    "track_name": "On Repeat",
+    "bucket": "HIGH",
+    "prob": 0.82,
+    "popularity": 88,
+    "justification": "Good danceability (0.609 > median 0.58), high energy (0.801 > 0.685), and collaboration between Robin Schulz and David Guetta guarantee mainstream house appeal, with moderate valence (0.202 < 0.464) adding a slightly melanchonic edge.",
+    "evidence": {
+      "danceability": 0.609,
+      "energy": 0.801,
+      "valence": 0.202
+    }
+  },
+  {
+    "track_id": "6Gx3Ry4ORogdMibbdITOuN",
+    "track_name": "Dhadak Title Track",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 69,
+    "justification": "Very high acousticness (0.85 > median 0.169) and low energy (0.312 < 0.685) are typical of Bollywood romantic ballads, giving it massive appeal in South Asian markets but less streaming traction globally outside the diaspora.",
+    "evidence": {
+      "acousticness": 0.85,
+      "energy": 0.312,
+      "speechiness": 0.031
+    }
+  },
+  {
+    "track_id": "34a89MbC7QXsUsLkljLgXX",
+    "track_name": "Free Fallin'",
+    "bucket": "HIGH",
+    "prob": 0.85,
+    "popularity": 90,
+    "justification": "Good danceability (0.619 > median 0.58), valence (0.568 > 0.464), and Tom Petty's iconic status make this a classic rock staple with enduring multi-generational appeal, despite lower energy (0.504 < 0.685) and loudness (-11.562).",
+    "evidence": {
+      "danceability": 0.619,
+      "valence": 0.568,
+      "loudness": -11.562
+    }
+  },
+  {
+    "track_id": "3zPVG3y3rEzyixSFhe3XYu",
+    "track_name": "Andorinha Machucada / Tudo de Novo / Pense em Mim (Ao Vivo)",
+    "bucket": "MID",
+    "prob": 0.52,
+    "popularity": 62,
+    "justification": "High acousticness (0.83 > median 0.169) and liveness (0.242 > 0.132) suit live forró, with moderate danceability (0.415 < 0.58) and energy (0.501 < 0.685) creating an authentic, down-to-earth regional Brazilian appeal.",
+    "evidence": {
+      "acousticness": 0.83,
+      "liveness": 0.242,
+      "danceability": 0.415
+    }
+  },
+  {
+    "track_id": "4YXKKnIZuk7UtXH5oC0ffa",
+    "track_name": "Lucille",
+    "bucket": "MID",
+    "prob": 0.60,
+    "popularity": 72,
+    "justification": "Good danceability (0.676 > median 0.58), very high valence (0.919 > 0.464), and high energy (0.708 > 0.685) make this a timeless, upbeat rockabilly classic with enduring recognition and oldies radio play.",
+    "evidence": {
+      "danceability": 0.676,
+      "valence": 0.919,
+      "energy": 0.708
+    }
+  },
+  {
+    "track_id": "089tprIgsyFSOrZpugamLI",
+    "track_name": "Blame",
+    "bucket": "MID",
+    "prob": 0.56,
+    "popularity": 67,
+    "justification": "Good danceability (0.624 > median 0.58) and energy (0.68 > 0.685) from established electronic artists (Ekali & ZHU) create a polished dubstep/pop crossover, though low valence (0.117 < 0.464) gives it a darker, less universally positive tone.",
+    "evidence": {
+      "danceability": 0.624,
+      "energy": 0.68,
+      "valence": 0.117
+    }
+  },
+  {
+    "track_id": "3RVKeAie8vdadw5r1PPBx5",
+    "track_name": "(Evil Hearted Me) Downright Evil",
+    "bucket": "MID",
+    "prob": 0.48,
+    "popularity": 58,
+    "justification": "High energy (0.865 > median 0.685) and extremely high valence (0.969 > 0.464) suggest an upbeat, almost manic rockabilly track, but lower loudness (-10.227) and high acousticness (0.719 > 0.169) indicate a vintage production with niche appeal.",
+    "evidence": {
+      "energy": 0.865,
+      "valence": 0.969,
+      "loudness": -10.227
+    }
+  },
+  {
+    "track_id": "7u1S5QZSwrWyNczrN9IAKR",
+    "track_name": "Doiloi",
+    "bucket": "LOW",
+    "prob": 0.12,
+    "popularity": 18,
+    "justification": "Very low energy (0.129 < median 0.685), extremely high acousticness (0.988 > 0.169), and atypical time signature (5) indicate an experimental, avant-garde vocal piece with minimal commercial or mainstream musical appeal.",
+    "evidence": {
+      "energy": 0.129,
+      "acousticness": 0.988,
+      "time_signature": 5
+    }
+  },
+  {
+    "track_id": "08r6N5mPmFMLhaXRZUfUbB",
+    "track_name": "If You'Re Smart",
+    "bucket": "MID",
+    "prob": 0.50,
+    "popularity": 60,
+    "justification": "High energy (0.873 > median 0.685) and instrumentalness (0.74) define a driving happy hardcore track, but low valence (0.0894 < 0.464) and fast tempo (179.841) place it in a high-BPM niche with limited crossover.",
+    "evidence": {
+      "energy": 0.873,
+      "instrumentalness": 0.74,
+      "valence": 0.0894
+    }
+  },
+  {
+    "track_id": "5YLHLxoZsodDWjqSgjhBf3",
+    "track_name": "Myself",
+    "bucket": "HIGH",
+    "prob": 0.78,
+    "popularity": 85,
+    "justification": "High danceability (0.745 > median 0.58), extremely high valence (0.902 > 0.464), and fast tempo (195.918) from Bazzi create an upbeat, self-affirming electro-pop track with strong TikTok and streaming potential for a young audience.",
+    "evidence": {
+      "danceability": 0.745,
+      "valence": 0.902,
+      "tempo": 195.918
+    }
+  },
+  {
+    "track_id": "1mVn6LE3NukwuP1uAixzgT",
+    "track_name": "When Worlds Collide",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 66,
+    "justification": "High energy (0.903 > median 0.685) and valence (0.581 > 0.464) make this an accessible industrial rock anthem, with good danceability (0.56) and low acousticness (0.00132) appealing to alternative and rock radio formats.",
+    "evidence": {
+      "energy": 0.903,
+      "valence": 0.581,
+      "danceability": 0.56
+    }
+  },
+  {
+    "track_id": "4zjuPxRdniuN7LZzI5aQNA",
+    "track_name": "Memory Cascades",
+    "bucket": "LOW",
+    "prob": 0.15,
+    "popularity": 22,
+    "justification": "Extremely low loudness (-20.924), low energy (0.343 < median 0.685), and high instrumentalness (0.89) define a quiet, ambient IDM track with almost inaudible dynamics, appealing only to a small audience of ambient enthusiasts.",
+    "evidence": {
+      "loudness": -20.924,
+      "energy": 0.343,
+      "instrumentalness": 0.89
+    }
+  },
+  {
+    "track_id": "0CkwGzywZ3js4Hcmb0RkQn",
+    "track_name": "Heavy Metal Love",
+    "bucket": "MID",
+    "prob": 0.60,
+    "popularity": 72,
+    "justification": "High danceability (0.768 > median 0.58) and energy (0.767 > 0.685) from twocolors create a festival-ready EDM track with anthemic potential, and moderate valence (0.457 > 0.464) and acousticness (0.194 > 0.169) add musical depth.",
+    "evidence": {
+      "danceability": 0.768,
+      "energy": 0.767,
+      "acousticness": 0.194
+    }
+  },
+  {
+    "track_id": "2Yj1sRA7UENRp7p6tt8E1k",
+    "track_name": "Break Ups Suck Ass",
+    "bucket": "MID",
+    "prob": 0.52,
+    "popularity": 62,
+    "justification": "High acousticness (0.866 > median 0.169) and danceability (0.605 > 0.58) align with the modern 'sad pop' genre, and fast tempo (179.839) contrasts with the lyrical theme, creating a streaming-friendly emo-rap track.",
+    "evidence": {
+      "acousticness": 0.866,
+      "danceability": 0.605,
+      "tempo": 179.839
+    }
+  },
+  {
+    "track_id": "6OEHLXWw1PDfhbJLbNRi94",
+    "track_name": "Make Me Happy",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 69,
+    "justification": "High danceability (0.713 > median 0.58) and extremely high valence (0.944 > 0.464) perfectly suit a show-tune's purpose, with good energy (0.639) and acousticness (0.423 > 0.169) creating a theatrical, upbeat number.",
+    "evidence": {
+      "danceability": 0.713,
+      "valence": 0.944,
+      "acousticness": 0.423
+    }
+  },
+  {
+    "track_id": "2B5a8L30R9vk3F9clonX5g",
+    "track_name": "Vuela paloma",
+    "bucket": "LOW",
+    "prob": 0.25,
+    "popularity": 38,
+    "justification": "Low energy (0.374 < median 0.685), high acousticness (0.788 > 0.169), and moderate valence (0.669 > 0.464) define a traditional Latin guitar ballad with nostalgic appeal to older audiences but little streaming traction.",
+    "evidence": {
+      "energy": 0.374,
+      "acousticness": 0.788,
+      "valence": 0.669
+    }
+  },
+  {
+    "track_id": "3AO4zBhbT0E8hxb9HMSmbM",
+    "track_name": "Obama and Hitler!",
+    "bucket": "LOW",
+    "prob": 0.20,
+    "popularity": 30,
+    "justification": "Extremely high speechiness (0.941) and liveness (0.649 > median 0.132) indicate a stand-up comedy routine with musical backing, limiting its appeal strictly to comedy fans and not music listeners.",
+    "evidence": {
+      "speechiness": 0.941,
+      "liveness": 0.649,
+      "energy": 0.555
+    }
+  },
+  {
+    "track_id": "6LFXmq8DuXrxoyrPz7c5Lw",
+    "track_name": "Ponto Final",
+    "bucket": "MID",
+    "prob": 0.56,
+    "popularity": 67,
+    "justification": "Good danceability (0.657 > median 0.58), high energy (0.829 > 0.685), and moderate valence (0.569 > 0.464) create an infectious forró track suitable for dancing, with strong appeal in Brazilian Northeast regions.",
+    "evidence": {
+      "danceability": 0.657,
+      "energy": 0.829,
+      "valence": 0.569
+    }
+  },
+  {
+    "track_id": "4UDmDIqJIbrW0hMBQMFOsM",
+    "track_name": "Stayin' Alive",
+    "bucket": "HIGH",
+    "prob": 0.92,
+    "popularity": 96,
+    "justification": "Iconic status, good danceability (0.707 > median 0.58), and positive valence (0.641 > 0.464) make this one of the most recognizable disco songs globally, with perpetual presence in media, advertising, and pop culture.",
+    "evidence": {
+      "danceability": 0.707,
+      "valence": 0.641,
+      "energy": 0.535
+    }
+  },
+  {
+    "track_id": "4RShNT9cGPE2jnrO82Ma0I",
+    "track_name": "Little Jack Horner - Original Mix",
+    "bucket": "LOW",
+    "prob": 0.15,
+    "popularity": 22,
+    "justification": "Very low energy (0.137 < median 0.685), high instrumentalness (0.946), and high acousticness (0.968 > 0.169) define a gentle, instrumental nursery rhyme with appeal limited to very young children and their parents.",
+    "evidence": {
+      "energy": 0.137,
+      "instrumentalness": 0.946,
+      "acousticness": 0.968
+    }
+  },
+  {
+    "track_id": "0Y2v82GQsomVCqnfWpRSg5",
+    "track_name": "Dois Amores, Duas Paixões",
+    "bucket": "MID",
+    "prob": 0.54,
+    "popularity": 65,
+    "justification": "High energy (0.727 > median 0.685) and liveness (0.422 > 0.132) suggest an energetic live pagode recording, with moderate danceability (0.496 < 0.58) and valence (0.501 > 0.464) providing consistent regional appeal.",
+    "evidence": {
+      "energy": 0.727,
+      "liveness": 0.422,
+      "danceability": 0.496
+    }
+  },
+  {
+    "track_id": "3iRKwxW8ZDjmL9nKk3nisz",
+    "track_name": "Jaiye Foreign",
+    "bucket": "MID",
+    "prob": 0.62,
+    "popularity": 74,
+    "justification": "Very high danceability (0.82 > median 0.58) and valence (0.861 > 0.464) from Tiwa Savage create an upbeat, celebratory Afrobeats track with strong potential across Africa and the diaspora, and growing global recognition.",
+    "evidence": {
+      "danceability": 0.82,
+      "valence": 0.861,
+      "energy": 0.816
+    }
+  },
+  {
+    "track_id": "1HGtTmgl1sEycuS9lJviWQ",
+    "track_name": "dooriyan",
+    "bucket": "MID",
+    "prob": 0.53,
+    "popularity": 64,
+    "justification": "High danceability (0.735 > median 0.58) and acousticness (0.731 > 0.169) blend pop and folk elements in Indian indie-pop, with moderate energy (0.593 < 0.685) and valence (0.475 > 0.464) appealing to a youthful, streaming-savvy audience.",
+    "evidence": {
+      "danceability": 0.735,
+      "acousticness": 0.731,
+      "valence": 0.475
+    }
+  },
+  {
+    "track_id": "69Yia3qCLw6N9U80WhLwLn",
+    "track_name": "Voice of the Soul",
+    "bucket": "LOW",
+    "prob": 0.22,
+    "popularity": 33,
+    "justification": "Very low danceability (0.158 < median 0.58), atypical time signature (3), and high instrumentalness (0.893) define an atmospheric death metal instrumental, appealing only to a subset of metal fans and not the broader market.",
+    "evidence": {
+      "danceability": 0.158,
+      "time_signature": 3,
+      "instrumentalness": 0.893
+    }
+  },
+  {
+    "track_id": "73rQVihYf9bPXflrJiesqF",
+    "track_name": "Ressuscitou (Resurrecting) [Kemuel Nation]",
+    "bucket": "MID",
+    "prob": 0.48,
+    "popularity": 58,
+    "justification": "Moderate danceability (0.413 < median 0.58) and energy (0.509 < 0.685) suit a contemporary Christian worship song, with positive valence (0.222) and speechiness (0.0292 < 0.0489) focusing on lyrical message over musical innovation.",
+    "evidence": {
+      "danceability": 0.413,
+      "energy": 0.509,
+      "valence": 0.222
+    }
+  },
+  {
+    "track_id": "7G4FH6SEh9wgDRztDi3cDE",
+    "track_name": "Utan att förstå",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 66,
+    "justification": "Good danceability (0.663 > median 0.58), high valence (0.741 > 0.464), and energy (0.733 > 0.685) create an upbeat Swedish pop track with danceable qualities and regional hit potential, though language may limit global reach.",
+    "evidence": {
+      "danceability": 0.663,
+      "valence": 0.741,
+      "energy": 0.733
+    }
+  },
+  {
+    "track_id": "44Lv3y1OHRM7r8vuEAGTkW",
+    "track_name": "Liebe ist ...",
+    "bucket": "MID",
+    "prob": 0.60,
+    "popularity": 72,
+    "justification": "Good danceability (0.631 > median 0.58), high valence (0.782 > 0.464), and energy (0.8 > 0.685) make this a catchy German party track, with high speechiness (0.101 > 0.0489) adding a rap element for mainstream appeal.",
+    "evidence": {
+      "danceability": 0.631,
+      "valence": 0.782,
+      "speechiness": 0.101
+    }
+  },
+  {
+    "track_id": "5d4MvCqMJUgoVVCz16tvlD",
+    "track_name": "再見二丁目",
+    "bucket": "MID",
+    "prob": 0.52,
+    "popularity": 62,
+    "justification": "Good danceability (0.645 > median 0.58) and very high acousticness (0.815 > 0.169) define a classic Cantopop ballad from Miriam Yeung, with low energy (0.3 < 0.685) and valence (0.214 < 0.464) conveying melancholy suited to its era.",
+    "evidence": {
+      "danceability": 0.645,
+      "acousticness": 0.815,
+      "valence": 0.214
+    }
+  },
+  {
+    "track_id": "3JCcBtwNldEBd3O4hqYDWI",
+    "track_name": "No Me Arrodillo",
+    "bucket": "MID",
+    "prob": 0.56,
+    "popularity": 67,
+    "justification": "Very high danceability (0.81 > median 0.58) and speechiness (0.415 > 0.0489) create a rhythmic, rap-heavy Latino Christian track, with moderate energy (0.542 < 0.685) and valence (0.376 < 0.464) focusing on message over melody.",
+    "evidence": {
+      "danceability": 0.81,
+      "speechiness": 0.415,
+      "energy": 0.542
+    }
+  },
+  {
+    "track_id": "0fGDKi4UeXx8CypAvJdAj6",
+    "track_name": "F***k Orgus (Dance) - Dr. Rude Remix",
+    "bucket": "LOW",
+    "prob": 0.28,
+    "popularity": 42,
+    "justification": "Very high speechiness (0.364 > median 0.0489) and moderate instrumentalness (0.74) indicate a remix focused on samples and spoken word, with niche J-dance/techno appeal but little mainstream musical structure.",
+    "evidence": {
+      "speechiness": 0.364,
+      "instrumentalness": 0.74,
+      "danceability": 0.842
+    }
+  },
+  {
+    "track_id": "0NmnFMWMkTETNANGpVVqyc",
+    "track_name": "Wasteland",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 69,
+    "justification": "High energy (0.836 > median 0.685) and valence (0.657 > 0.464) from Moore Kismet create an accessible, melodic dubstep track with crossover potential, and good danceability (0.563) adds to its festival appeal.",
+    "evidence": {
+      "energy": 0.836,
+      "valence": 0.657,
+      "danceability": 0.563
+    }
+  },
+  {
+    "track_id": "6HhdFRM9un1Ojpz1A98pVi",
+    "track_name": "If We Ever - 2018 Remaster",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 66,
+    "justification": "High energy (0.875 > median 0.685) and instrumentalness (0.31) are hallmarks of drum and bass, with moderate danceability (0.542) and low valence (0.114 < 0.464) creating a driving, melancholic vibe for the genre's dedicated fanbase.",
+    "evidence": {
+      "energy": 0.875,
+      "instrumentalness": 0.31,
+      "valence": 0.114
+    }
+  }
+]

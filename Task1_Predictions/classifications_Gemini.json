@@ -1,0 +1,2002 @@
+[
+  {
+    "track_id": "6KwkVtXm8OUp2XffN5k7lY",
+    "track_name": "No Other Name",
+    "bucket": "MID",
+    "prob": 0.39,
+    "popularity": 39,
+    "justification": "danceability (0.369) < median (0.58) and valence (0.0466) < median (0.464).",
+    "evidence": {
+      "danceability": 0.369,
+      "energy": 0.598,
+      "loudness_db": -6.984,
+      "valence": 0.0466,
+      "tempo_bpm": 148.014,
+      "instrumentalness": 0.0,
+      "acousticness": 0.00511,
+      "liveness": 0.176,
+      "speechiness": 0.0304,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "2dp5I5MJ8bQQHDoFaNRFtX",
+    "track_name": "Failed Organum",
+    "bucket": "LOW",
+    "prob": 0.31,
+    "popularity": 31,
+    "justification": "instrumentalness (0.801) > median (4.16e-05) and danceability (0.171) < median (0.58).",
+    "evidence": {
+      "danceability": 0.171,
+      "energy": 0.997,
+      "loudness_db": -3.586,
+      "valence": 0.0294,
+      "tempo_bpm": 122.223,
+      "instrumentalness": 0.801,
+      "acousticness": 0.00521,
+      "liveness": 0.42,
+      "speechiness": 0.118,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "5avw06usmFkFrPjX8NxC40",
+    "track_name": "Save the Trees, Pt. 1",
+    "bucket": "LOW",
+    "prob": 0.24,
+    "popularity": 24,
+    "justification": "danceability (0.173) < median (0.58) and loudness_db (-10.1) < median (-7.004).",
+    "evidence": {
+      "danceability": 0.173,
+      "energy": 0.803,
+      "loudness_db": -10.071,
+      "valence": 0.0887,
+      "tempo_bpm": 75.564,
+      "instrumentalness": 0.00191,
+      "acousticness": 0.613,
+      "liveness": 0.195,
+      "speechiness": 0.144,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "75hT0hvlESnDJstem0JgyR",
+    "track_name": "Merry Christmas",
+    "bucket": "MID",
+    "prob": 0.51,
+    "popularity": 51,
+    "justification": "energy (0.511) < median (0.685) and danceability (0.683) > median (0.58).",
+    "evidence": {
+      "danceability": 0.683,
+      "energy": 0.511,
+      "loudness_db": -5.598,
+      "valence": 0.598,
+      "tempo_bpm": 109.991,
+      "instrumentalness": 0.000197,
+      "acousticness": 0.406,
+      "liveness": 0.111,
+      "speechiness": 0.0279,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "4bY2oZGA5Br3pTE1Jd1IfY",
+    "track_name": "\u6708\u306e\u5927\u304d\u3055",
+    "bucket": "MID",
+    "prob": 0.62,
+    "popularity": 62,
+    "justification": "loudness_db (-3.29) > median (-7.004) and energy (0.941) > median (0.685).",
+    "evidence": {
+      "danceability": 0.555,
+      "energy": 0.941,
+      "loudness_db": -3.294,
+      "valence": 0.813,
+      "tempo_bpm": 92.487,
+      "instrumentalness": 0.0,
+      "acousticness": 0.484,
+      "liveness": 0.266,
+      "speechiness": 0.0481,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "2zQt5C0AIv27RhfJCRZdZ4",
+    "track_name": "Jah Jah Revolta, Pt. 2",
+    "bucket": "MID",
+    "prob": 0.64,
+    "popularity": 64,
+    "justification": "danceability (0.776) > median (0.58) and loudness_db (-4.7) > median (-7.004).",
+    "evidence": {
+      "danceability": 0.776,
+      "energy": 0.8,
+      "loudness_db": -4.704,
+      "valence": 0.583,
+      "tempo_bpm": 143.989,
+      "instrumentalness": 0.0731,
+      "acousticness": 0.00631,
+      "liveness": 0.35,
+      "speechiness": 0.0438,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "6BctgCJXlgxYeR0ObhLdtR",
+    "track_name": "Please Stop Communicating",
+    "bucket": "MID",
+    "prob": 0.39,
+    "popularity": 39,
+    "justification": "acousticness (0.785) > median (0.169) and energy (0.815) > median (0.685).",
+    "evidence": {
+      "danceability": 0.627,
+      "energy": 0.815,
+      "loudness_db": -6.959,
+      "valence": 0.532,
+      "tempo_bpm": 119.197,
+      "instrumentalness": 0.0,
+      "acousticness": 0.785,
+      "liveness": 0.744,
+      "speechiness": 0.911,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "1LDQFdGTEXOnycDC8CJ5p1",
+    "track_name": "A Form of Protest",
+    "bucket": "MID",
+    "prob": 0.54,
+    "popularity": 54,
+    "justification": "loudness_db (-3.6) > median (-7.004) and danceability (0.395) < median (0.58).",
+    "evidence": {
+      "danceability": 0.395,
+      "energy": 0.933,
+      "loudness_db": -3.6,
+      "valence": 0.194,
+      "tempo_bpm": 92.53,
+      "instrumentalness": 0.0125,
+      "acousticness": 8.74e-06,
+      "liveness": 0.328,
+      "speechiness": 0.116,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "2DDR5F7bHFJBiX6lPPsT8O",
+    "track_name": "I'm Ready - Radio Edit",
+    "bucket": "MID",
+    "prob": 0.55,
+    "popularity": 55,
+    "justification": "instrumentalness (0.65) > median (4.16e-05) and danceability (0.914) > median (0.58).",
+    "evidence": {
+      "danceability": 0.914,
+      "energy": 0.766,
+      "loudness_db": -5.662,
+      "valence": 0.9,
+      "tempo_bpm": 126.632,
+      "instrumentalness": 0.65,
+      "acousticness": 0.192,
+      "liveness": 0.0747,
+      "speechiness": 0.0387,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "2ScU6iEvgb0TIuKiyem9rg",
+    "track_name": "Proibida Pra Mim (Grazon) - Ao Vivo",
+    "bucket": "MID",
+    "prob": 0.57,
+    "popularity": 57,
+    "justification": "danceability (0.345) < median (0.58) and energy (0.976) > median (0.685).",
+    "evidence": {
+      "danceability": 0.345,
+      "energy": 0.976,
+      "loudness_db": -4.74,
+      "valence": 0.818,
+      "tempo_bpm": 181.121,
+      "instrumentalness": 0.0507,
+      "acousticness": 0.000587,
+      "liveness": 0.487,
+      "speechiness": 0.0487,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "4ifiz8TRTNdG9ORNWh2P0Q",
+    "track_name": "I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show",
+    "bucket": "LOW",
+    "prob": 0.12,
+    "popularity": 12,
+    "justification": "loudness_db (-15.4) < median (-7.004) and energy (0.183) < median (0.685).",
+    "evidence": {
+      "danceability": 0.469,
+      "energy": 0.183,
+      "loudness_db": -15.414,
+      "valence": 0.381,
+      "tempo_bpm": 139.592,
+      "instrumentalness": 0.0,
+      "acousticness": 0.829,
+      "liveness": 0.71,
+      "speechiness": 0.0407,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "5xWxnLpw8ooMW1nJwY2hui",
+    "track_name": "\u6642\u9593\u304c\u306a\u3044",
+    "bucket": "MID",
+    "prob": 0.53,
+    "popularity": 53,
+    "justification": "danceability (0.772) > median (0.58) and loudness_db (-9.15) < median (-7.004).",
+    "evidence": {
+      "danceability": 0.772,
+      "energy": 0.675,
+      "loudness_db": -9.154,
+      "valence": 0.68,
+      "tempo_bpm": 126.033,
+      "instrumentalness": 0.0121,
+      "acousticness": 0.124,
+      "liveness": 0.102,
+      "speechiness": 0.0366,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "3i2L1PRDEwWcUC03y95UPG",
+    "track_name": "Sur",
+    "bucket": "LOW",
+    "prob": 0.26,
+    "popularity": 26,
+    "justification": "loudness_db (-11.2) < median (-7.004) and energy (0.401) < median (0.685).",
+    "evidence": {
+      "danceability": 0.423,
+      "energy": 0.401,
+      "loudness_db": -11.219,
+      "valence": 0.507,
+      "tempo_bpm": 111.213,
+      "instrumentalness": 0.0,
+      "acousticness": 0.726,
+      "liveness": 0.269,
+      "speechiness": 0.0449,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "46JGS5Gcz5TilUnqGGHnnl",
+    "track_name": "Pega pega (Participa\u00e7\u00e3o especial de Jojo Maronttinni) - Ao vivo",
+    "bucket": "MID",
+    "prob": 0.49,
+    "popularity": 49,
+    "justification": "acousticness (0.844) > median (0.169) and loudness_db (-4.73) > median (-7.004).",
+    "evidence": {
+      "danceability": 0.511,
+      "energy": 0.751,
+      "loudness_db": -4.731,
+      "valence": 0.732,
+      "tempo_bpm": 158.1,
+      "instrumentalness": 0.0,
+      "acousticness": 0.844,
+      "liveness": 0.962,
+      "speechiness": 0.0924,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "5pq4v03P5PxMcnCagg4S3Z",
+    "track_name": "In Case You Didn\u2019t Know",
+    "bucket": "MID",
+    "prob": 0.34,
+    "popularity": 34,
+    "justification": "energy (0.299) < median (0.685) and acousticness (0.833) > median (0.169).",
+    "evidence": {
+      "danceability": 0.633,
+      "energy": 0.299,
+      "loudness_db": -7.798,
+      "valence": 0.341,
+      "tempo_bpm": 147.549,
+      "instrumentalness": 0.0,
+      "acousticness": 0.833,
+      "liveness": 0.109,
+      "speechiness": 0.0353,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "08HJeHs0U9iSbDWX0sWIem",
+    "track_name": "O Sopro do Fole",
+    "bucket": "LOW",
+    "prob": 0.07,
+    "popularity": 7,
+    "justification": "loudness_db (-17.8) < median (-7.004) and energy (0.0856) < median (0.685).",
+    "evidence": {
+      "danceability": 0.524,
+      "energy": 0.0856,
+      "loudness_db": -17.766,
+      "valence": 0.316,
+      "tempo_bpm": 93.672,
+      "instrumentalness": 0.0,
+      "acousticness": 0.739,
+      "liveness": 0.0919,
+      "speechiness": 0.0999,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "198v7BbjXn2GTeI4NkBN39",
+    "track_name": "Vi Mam\u00e3e Oxum Na Cachoeira - Live",
+    "bucket": "MID",
+    "prob": 0.46,
+    "popularity": 46,
+    "justification": "acousticness (0.75) > median (0.169) and valence (0.815) > median (0.464).",
+    "evidence": {
+      "danceability": 0.59,
+      "energy": 0.697,
+      "loudness_db": -8.046,
+      "valence": 0.815,
+      "tempo_bpm": 126.911,
+      "instrumentalness": 0.000163,
+      "acousticness": 0.75,
+      "liveness": 0.621,
+      "speechiness": 0.0323,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "6bl8PFDgYxbDZHk0LRQhhz",
+    "track_name": "Me Gabber - DJ Paul Elstak & The BeatKrusher Remix",
+    "bucket": "MID",
+    "prob": 0.6,
+    "popularity": 60,
+    "justification": "loudness_db (-3.54) > median (-7.004) and energy (0.928) > median (0.685).",
+    "evidence": {
+      "danceability": 0.553,
+      "energy": 0.928,
+      "loudness_db": -3.544,
+      "valence": 0.305,
+      "tempo_bpm": 160.044,
+      "instrumentalness": 0.0,
+      "acousticness": 0.0251,
+      "liveness": 0.171,
+      "speechiness": 0.13,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "0b11D9D0hMOYCIMN3OKreM",
+    "track_name": "Into Your Arms (feat. Ava Max)",
+    "bucket": "MID",
+    "prob": 0.53,
+    "popularity": 53,
+    "justification": "loudness_db (-4.11) > median (-7.004) and valence (0.228) < median (0.464).",
+    "evidence": {
+      "danceability": 0.504,
+      "energy": 0.788,
+      "loudness_db": -4.113,
+      "valence": 0.228,
+      "tempo_bpm": 170.039,
+      "instrumentalness": 0.0,
+      "acousticness": 0.0134,
+      "liveness": 0.363,
+      "speechiness": 0.215,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "2pXg8l1JGZ3hCyFqxirV13",
+    "track_name": "Mocca",
+    "bucket": "MID",
+    "prob": 0.57,
+    "popularity": 57,
+    "justification": "danceability (0.786) > median (0.58) and loudness_db (-5.34) > median (-7.004).",
+    "evidence": {
+      "danceability": 0.786,
+      "energy": 0.696,
+      "loudness_db": -5.343,
+      "valence": 0.591,
+      "tempo_bpm": 97.956,
+      "instrumentalness": 0.0,
+      "acousticness": 0.183,
+      "liveness": 0.123,
+      "speechiness": 0.352,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "3dJj6o9o1fRgrojWjailuz",
+    "track_name": "Nobody Can Save Me",
+    "bucket": "MID",
+    "prob": 0.57,
+    "popularity": 57,
+    "justification": "loudness_db (-4.75) > median (-7.004) and danceability (0.645) > median (0.58).",
+    "evidence": {
+      "danceability": 0.645,
+      "energy": 0.688,
+      "loudness_db": -4.749,
+      "valence": 0.433,
+      "tempo_bpm": 139.957,
+      "instrumentalness": 0.0,
+      "acousticness": 0.0107,
+      "liveness": 0.186,
+      "speechiness": 0.0341,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "0rWLHJnMyJaMFA8x9l8AT0",
+    "track_name": "all the good girls go to hell",
+    "bucket": "MID",
+    "prob": 0.43,
+    "popularity": 43,
+    "justification": "danceability (0.854) > median (0.58) and energy (0.446) < median (0.685).",
+    "evidence": {
+      "danceability": 0.854,
+      "energy": 0.446,
+      "loudness_db": -8.957,
+      "valence": 0.57,
+      "tempo_bpm": 92.545,
+      "instrumentalness": 0.215,
+      "acousticness": 0.313,
+      "liveness": 0.156,
+      "speechiness": 0.198,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "36kDrsAPQ62bI32WPrlJew",
+    "track_name": "Machine Spirit",
+    "bucket": "MID",
+    "prob": 0.51,
+    "popularity": 51,
+    "justification": "instrumentalness (0.78) > median (4.16e-05) and loudness_db (-3.38) > median (-7.004).",
+    "evidence": {
+      "danceability": 0.643,
+      "energy": 0.956,
+      "loudness_db": -3.385,
+      "valence": 0.515,
+      "tempo_bpm": 104.99,
+      "instrumentalness": 0.78,
+      "acousticness": 0.000458,
+      "liveness": 0.228,
+      "speechiness": 0.051,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "0lASm1brReAnrOirk2f0a2",
+    "track_name": "Bear Crawl",
+    "bucket": "MID",
+    "prob": 0.34,
+    "popularity": 34,
+    "justification": "loudness_db (-14.3) < median (-7.004) and danceability (0.738) > median (0.58).",
+    "evidence": {
+      "danceability": 0.738,
+      "energy": 0.499,
+      "loudness_db": -14.344,
+      "valence": 0.806,
+      "tempo_bpm": 88.916,
+      "instrumentalness": 0.0,
+      "acousticness": 0.21,
+      "liveness": 0.569,
+      "speechiness": 0.546,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "1WhGXbgwPOTDPB4ZsJBIDG",
+    "track_name": "Time To Jack",
+    "bucket": "MID",
+    "prob": 0.43,
+    "popularity": 43,
+    "justification": "instrumentalness (0.89) > median (4.16e-05) and danceability (0.813) > median (0.58).",
+    "evidence": {
+      "danceability": 0.813,
+      "energy": 0.863,
+      "loudness_db": -8.587,
+      "valence": 0.717,
+      "tempo_bpm": 122.93,
+      "instrumentalness": 0.89,
+      "acousticness": 0.00024,
+      "liveness": 0.109,
+      "speechiness": 0.0563,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "2xIbHYxBs1fiR4NkPc8z33",
+    "track_name": "Ready fi di party",
+    "bucket": "MID",
+    "prob": 0.41,
+    "popularity": 41,
+    "justification": "loudness_db (-12.5) < median (-7.004) and danceability (0.911) > median (0.58).",
+    "evidence": {
+      "danceability": 0.911,
+      "energy": 0.616,
+      "loudness_db": -12.46,
+      "valence": 0.467,
+      "tempo_bpm": 120.999,
+      "instrumentalness": 0.00795,
+      "acousticness": 0.569,
+      "liveness": 0.154,
+      "speechiness": 0.272,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "6NPTmYw2yMu0Oz0IJkoxeR",
+    "track_name": "Mis Noches Te Recuerdan",
+    "bucket": "MID",
+    "prob": 0.52,
+    "popularity": 52,
+    "justification": "acousticness (0.583) > median (0.169) and valence (0.845) > median (0.464).",
+    "evidence": {
+      "danceability": 0.643,
+      "energy": 0.574,
+      "loudness_db": -5.427,
+      "valence": 0.845,
+      "tempo_bpm": 108.002,
+      "instrumentalness": 0.0,
+      "acousticness": 0.583,
+      "liveness": 0.0492,
+      "speechiness": 0.035,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "0Xs1Yh44j5cIgUQtOCBcQj",
+    "track_name": "Sometimes Love",
+    "bucket": "MID",
+    "prob": 0.65,
+    "popularity": 65,
+    "justification": "loudness_db (-3.88) > median (-7.004) and valence (0.88) > median (0.464).",
+    "evidence": {
+      "danceability": 0.652,
+      "energy": 0.806,
+      "loudness_db": -3.875,
+      "valence": 0.88,
+      "tempo_bpm": 107.883,
+      "instrumentalness": 0.0,
+      "acousticness": 0.133,
+      "liveness": 0.281,
+      "speechiness": 0.0797,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "5TcuM4sQFHK747kwB2q1Qy",
+    "track_name": "Everybody Loves Louis",
+    "bucket": "LOW",
+    "prob": 0.21,
+    "popularity": 21,
+    "justification": "energy (0.189) < median (0.685) and loudness_db (-10.7) < median (-7.004).",
+    "evidence": {
+      "danceability": 0.521,
+      "energy": 0.189,
+      "loudness_db": -10.74,
+      "valence": 0.301,
+      "tempo_bpm": 117.833,
+      "instrumentalness": 0.0,
+      "acousticness": 0.892,
+      "liveness": 0.0824,
+      "speechiness": 0.0478,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "4bh9zPGpEX1yl9Do6rkhHr",
+    "track_name": "Planet Zero",
+    "bucket": "MID",
+    "prob": 0.57,
+    "popularity": 57,
+    "justification": "loudness_db (-2.97) > median (-7.004) and energy (0.964) > median (0.685).",
+    "evidence": {
+      "danceability": 0.416,
+      "energy": 0.964,
+      "loudness_db": -2.967,
+      "valence": 0.212,
+      "tempo_bpm": 157.925,
+      "instrumentalness": 0.000875,
+      "acousticness": 2.35e-05,
+      "liveness": 0.473,
+      "speechiness": 0.112,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "7vk7u7kaqw5A6BtkfoxQf3",
+    "track_name": "Do You?",
+    "bucket": "LOW",
+    "prob": 0.01,
+    "popularity": 1,
+    "justification": "loudness_db (-18.8) < median (-7.004) and instrumentalness (0.926) > median (4.16e-05).",
+    "evidence": {
+      "danceability": 0.435,
+      "energy": 0.101,
+      "loudness_db": -18.753,
+      "valence": 0.222,
+      "tempo_bpm": 107.449,
+      "instrumentalness": 0.926,
+      "acousticness": 0.992,
+      "liveness": 0.101,
+      "speechiness": 0.0487,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "72jbDTw1piOOj770jWNeaG",
+    "track_name": "Paris",
+    "bucket": "MID",
+    "prob": 0.52,
+    "popularity": 52,
+    "justification": "valence (0.219) < median (0.464) and danceability (0.653) > median (0.58).",
+    "evidence": {
+      "danceability": 0.653,
+      "energy": 0.658,
+      "loudness_db": -6.428,
+      "valence": 0.219,
+      "tempo_bpm": 99.99,
+      "instrumentalness": 1.66e-06,
+      "acousticness": 0.0215,
+      "liveness": 0.0939,
+      "speechiness": 0.0304,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "4zD9RBG51Lj8bnQwolLnyu",
+    "track_name": "Wild Life",
+    "bucket": "MID",
+    "prob": 0.44,
+    "popularity": 44,
+    "justification": "valence (0.0519) < median (0.464) and danceability (0.479) < median (0.58).",
+    "evidence": {
+      "danceability": 0.479,
+      "energy": 0.762,
+      "loudness_db": -7.86,
+      "valence": 0.0519,
+      "tempo_bpm": 115.956,
+      "instrumentalness": 0.011,
+      "acousticness": 0.00711,
+      "liveness": 0.0965,
+      "speechiness": 0.0378,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "7MiYNyj5si5yiWyeSkgzqB",
+    "track_name": "Joda - Worakls Remix",
+    "bucket": "LOW",
+    "prob": 0.27,
+    "popularity": 27,
+    "justification": "instrumentalness (0.849) > median (4.16e-05) and loudness_db (-11.2) < median (-7.004).",
+    "evidence": {
+      "danceability": 0.757,
+      "energy": 0.678,
+      "loudness_db": -11.225,
+      "valence": 0.13,
+      "tempo_bpm": 115.01,
+      "instrumentalness": 0.849,
+      "acousticness": 0.0399,
+      "liveness": 0.129,
+      "speechiness": 0.0323,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "6suU440DRXoxpLNKWf46XJ",
+    "track_name": "O Resgate",
+    "bucket": "MID",
+    "prob": 0.46,
+    "popularity": 46,
+    "justification": "acousticness (0.622) > median (0.169) and loudness_db (-5.21) > median (-7.004).",
+    "evidence": {
+      "danceability": 0.553,
+      "energy": 0.732,
+      "loudness_db": -5.206,
+      "valence": 0.436,
+      "tempo_bpm": 152.59,
+      "instrumentalness": 0.0,
+      "acousticness": 0.622,
+      "liveness": 0.163,
+      "speechiness": 0.262,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "5ueWiIP0QQcAqbMutT1Ng0",
+    "track_name": "La Mala",
+    "bucket": "MID",
+    "prob": 0.53,
+    "popularity": 53,
+    "justification": "energy (0.787) > median (0.685) and acousticness (0.0059) < median (0.169).",
+    "evidence": {
+      "danceability": 0.628,
+      "energy": 0.787,
+      "loudness_db": -6.809,
+      "valence": 0.377,
+      "tempo_bpm": 172.045,
+      "instrumentalness": 0.0,
+      "acousticness": 0.0059,
+      "liveness": 0.124,
+      "speechiness": 0.139,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "49Z1VQivkHoY5KGdUwMv5i",
+    "track_name": "Silo (feat. fknsyd)",
+    "bucket": "MID",
+    "prob": 0.46,
+    "popularity": 46,
+    "justification": "instrumentalness (0.367) > median (4.16e-05) and energy (0.933) > median (0.685).",
+    "evidence": {
+      "danceability": 0.472,
+      "energy": 0.933,
+      "loudness_db": -4.985,
+      "valence": 0.326,
+      "tempo_bpm": 159.949,
+      "instrumentalness": 0.367,
+      "acousticness": 0.0632,
+      "liveness": 0.0678,
+      "speechiness": 0.195,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "1WDDMw1k46OS4W2IGxmLzj",
+    "track_name": "Ferxxo 100",
+    "bucket": "MID",
+    "prob": 0.58,
+    "popularity": 58,
+    "justification": "loudness_db (-3.38) > median (-7.004) and danceability (0.705) > median (0.58).",
+    "evidence": {
+      "danceability": 0.705,
+      "energy": 0.562,
+      "loudness_db": -3.378,
+      "valence": 0.569,
+      "tempo_bpm": 163.893,
+      "instrumentalness": 0.0,
+      "acousticness": 0.257,
+      "liveness": 0.137,
+      "speechiness": 0.0674,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "5tmcGYwmon8ufw9igbwwKk",
+    "track_name": "Making Music",
+    "bucket": "LOW",
+    "prob": 0.29,
+    "popularity": 29,
+    "justification": "loudness_db (-15.2) < median (-7.004) and energy (0.342) < median (0.685).",
+    "evidence": {
+      "danceability": 0.782,
+      "energy": 0.342,
+      "loudness_db": -15.203,
+      "valence": 0.345,
+      "tempo_bpm": 115.018,
+      "instrumentalness": 0.0237,
+      "acousticness": 0.299,
+      "liveness": 0.103,
+      "speechiness": 0.0721,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "5Iqh58mh9xHzOkXNorHibJ",
+    "track_name": "Ruega por M\u00ed (Prega Per Me)",
+    "bucket": "LOW",
+    "prob": 0.28,
+    "popularity": 28,
+    "justification": "acousticness (0.847) > median (0.169) and loudness_db (-10.1) < median (-7.004).",
+    "evidence": {
+      "danceability": 0.494,
+      "energy": 0.404,
+      "loudness_db": -10.108,
+      "valence": 0.386,
+      "tempo_bpm": 96.387,
+      "instrumentalness": 0.0,
+      "acousticness": 0.847,
+      "liveness": 0.122,
+      "speechiness": 0.0299,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "5llrpUzc5oZ4U2RLruiDeI",
+    "track_name": "Holding",
+    "bucket": "MID",
+    "prob": 0.35,
+    "popularity": 35,
+    "justification": "acousticness (0.82) > median (0.169) and loudness_db (-8.96) < median (-7.004).",
+    "evidence": {
+      "danceability": 0.472,
+      "energy": 0.702,
+      "loudness_db": -8.965,
+      "valence": 0.351,
+      "tempo_bpm": 104.656,
+      "instrumentalness": 4.25e-05,
+      "acousticness": 0.82,
+      "liveness": 0.362,
+      "speechiness": 0.0981,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "6jAoHpOWUd5dpBUy0PW7TR",
+    "track_name": "The Farthest Star",
+    "bucket": "MID",
+    "prob": 0.54,
+    "popularity": 54,
+    "justification": "energy (0.937) > median (0.685) and acousticness (0.0232) < median (0.169).",
+    "evidence": {
+      "danceability": 0.552,
+      "energy": 0.937,
+      "loudness_db": -6.738,
+      "valence": 0.347,
+      "tempo_bpm": 134.98,
+      "instrumentalness": 0.00268,
+      "acousticness": 0.0232,
+      "liveness": 0.102,
+      "speechiness": 0.0488,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "0LoQuiekvzqx7n8flgEKzF",
+    "track_name": "Get It On",
+    "bucket": "MID",
+    "prob": 0.45,
+    "popularity": 45,
+    "justification": "instrumentalness (0.856) > median (4.16e-05) and valence (0.911) > median (0.464).",
+    "evidence": {
+      "danceability": 0.728,
+      "energy": 0.878,
+      "loudness_db": -6.926,
+      "valence": 0.911,
+      "tempo_bpm": 126.59,
+      "instrumentalness": 0.856,
+      "acousticness": 0.176,
+      "liveness": 0.61,
+      "speechiness": 0.0564,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "34XYMzu7cmqQjItV8mJ77m",
+    "track_name": "Para dos",
+    "bucket": "LOW",
+    "prob": 0.13,
+    "popularity": 13,
+    "justification": "instrumentalness (0.692) > median (4.16e-05) and loudness_db (-11.8) < median (-7.004).",
+    "evidence": {
+      "danceability": 0.633,
+      "energy": 0.219,
+      "loudness_db": -11.805,
+      "valence": 0.537,
+      "tempo_bpm": 118.814,
+      "instrumentalness": 0.692,
+      "acousticness": 0.72,
+      "liveness": 0.113,
+      "speechiness": 0.0887,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "60an8Fb1pH1MniTxTlo2l9",
+    "track_name": "Bloco do Carro Chefe",
+    "bucket": "MID",
+    "prob": 0.52,
+    "popularity": 52,
+    "justification": "danceability (0.818) > median (0.58) and energy (0.486) < median (0.685).",
+    "evidence": {
+      "danceability": 0.818,
+      "energy": 0.486,
+      "loudness_db": -7.006,
+      "valence": 0.637,
+      "tempo_bpm": 113.192,
+      "instrumentalness": 0.0,
+      "acousticness": 0.0996,
+      "liveness": 0.0437,
+      "speechiness": 0.394,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "5FPnjikbwlDMULCCCa6ZCJ",
+    "track_name": "Daughters",
+    "bucket": "MID",
+    "prob": 0.39,
+    "popularity": 39,
+    "justification": "acousticness (0.836) > median (0.169) and energy (0.413) < median (0.685).",
+    "evidence": {
+      "danceability": 0.674,
+      "energy": 0.413,
+      "loudness_db": -7.816,
+      "valence": 0.503,
+      "tempo_bpm": 124.893,
+      "instrumentalness": 1.95e-05,
+      "acousticness": 0.836,
+      "liveness": 0.098,
+      "speechiness": 0.0274,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "5kVZxyMY1gfdCLiChsfjn1",
+    "track_name": "Yo No Soy Celoso",
+    "bucket": "MID",
+    "prob": 0.61,
+    "popularity": 61,
+    "justification": "danceability (0.872) > median (0.58) and valence (0.93) > median (0.464).",
+    "evidence": {
+      "danceability": 0.872,
+      "energy": 0.588,
+      "loudness_db": -6.276,
+      "valence": 0.93,
+      "tempo_bpm": 142.004,
+      "instrumentalness": 0.0,
+      "acousticness": 0.275,
+      "liveness": 0.17,
+      "speechiness": 0.0492,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "2Fc99kfkQ1S2RilXcd6xIU",
+    "track_name": "Quieren Efectos",
+    "bucket": "MID",
+    "prob": 0.36,
+    "popularity": 36,
+    "justification": "instrumentalness (0.865) > median (4.16e-05) and energy (0.773) > median (0.685).",
+    "evidence": {
+      "danceability": 0.553,
+      "energy": 0.773,
+      "loudness_db": -6.446,
+      "valence": 0.597,
+      "tempo_bpm": 96.617,
+      "instrumentalness": 0.865,
+      "acousticness": 0.173,
+      "liveness": 0.185,
+      "speechiness": 0.0343,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "47bweAQBrsV1Vi3hDmEIAo",
+    "track_name": "Boozed - Edit",
+    "bucket": "MID",
+    "prob": 0.49,
+    "popularity": 49,
+    "justification": "instrumentalness (0.42) > median (4.16e-05) and energy (0.978) > median (0.685).",
+    "evidence": {
+      "danceability": 0.462,
+      "energy": 0.978,
+      "loudness_db": -4.089,
+      "valence": 0.33,
+      "tempo_bpm": 168.624,
+      "instrumentalness": 0.42,
+      "acousticness": 0.0569,
+      "liveness": 0.168,
+      "speechiness": 0.0951,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "5i7s3sB1LzxeVz8CWVEpAO",
+    "track_name": "Talking Body - The Young Professionals Remix",
+    "bucket": "MID",
+    "prob": 0.49,
+    "popularity": 49,
+    "justification": "danceability (0.651) > median (0.58) and energy (0.579) < median (0.685).",
+    "evidence": {
+      "danceability": 0.651,
+      "energy": 0.579,
+      "loudness_db": -8.023,
+      "valence": 0.443,
+      "tempo_bpm": 138.993,
+      "instrumentalness": 0.000397,
+      "acousticness": 0.00166,
+      "liveness": 0.0794,
+      "speechiness": 0.0379,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "6xwqmrEshHeFlVI3hrc685",
+    "track_name": "Penurias",
+    "bucket": "LOW",
+    "prob": 0.33,
+    "popularity": 33,
+    "justification": "loudness_db (-11.2) < median (-7.004) and danceability (0.329) < median (0.58).",
+    "evidence": {
+      "danceability": 0.329,
+      "energy": 0.596,
+      "loudness_db": -11.17,
+      "valence": 0.413,
+      "tempo_bpm": 167.831,
+      "instrumentalness": 0.00102,
+      "acousticness": 0.0179,
+      "liveness": 0.267,
+      "speechiness": 0.0569,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "21excOPd45gzWN8zCt8Vhw",
+    "track_name": "Angels From The Realms of Glory",
+    "bucket": "LOW",
+    "prob": 0.32,
+    "popularity": 32,
+    "justification": "energy (0.322) < median (0.685) and loudness_db (-8.96) < median (-7.004).",
+    "evidence": {
+      "danceability": 0.523,
+      "energy": 0.322,
+      "loudness_db": -8.957,
+      "valence": 0.3,
+      "tempo_bpm": 126.002,
+      "instrumentalness": 0.0,
+      "acousticness": 0.535,
+      "liveness": 0.132,
+      "speechiness": 0.0285,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "39NkxITdhS5BPBZ3ma2CTM",
+    "track_name": "My Hawai'i (feat. Sean Na'auao, Kaumakaiwa, Kumu Hina)",
+    "bucket": "MID",
+    "prob": 0.54,
+    "popularity": 54,
+    "justification": "danceability (0.726) > median (0.58) and valence (0.857) > median (0.464).",
+    "evidence": {
+      "danceability": 0.726,
+      "energy": 0.593,
+      "loudness_db": -7.138,
+      "valence": 0.857,
+      "tempo_bpm": 139.924,
+      "instrumentalness": 0.0,
+      "acousticness": 0.284,
+      "liveness": 0.527,
+      "speechiness": 0.0851,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "14nEPCQLWtMqV4uE1cRHFv",
+    "track_name": "Vida Eterna",
+    "bucket": "MID",
+    "prob": 0.51,
+    "popularity": 51,
+    "justification": "danceability (0.31) < median (0.58) and loudness_db (-4.09) > median (-7.004).",
+    "evidence": {
+      "danceability": 0.31,
+      "energy": 0.884,
+      "loudness_db": -4.088,
+      "valence": 0.314,
+      "tempo_bpm": 75.023,
+      "instrumentalness": 0.0,
+      "acousticness": 0.000301,
+      "liveness": 0.177,
+      "speechiness": 0.0488,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "1gexiILoiAONdvcXlzVQeE",
+    "track_name": "Ego Sum Deus",
+    "bucket": "LOW",
+    "prob": 0.28,
+    "popularity": 28,
+    "justification": "instrumentalness (0.881) > median (4.16e-05) and valence (0.0388) < median (0.464).",
+    "evidence": {
+      "danceability": 0.636,
+      "energy": 0.538,
+      "loudness_db": -6.921,
+      "valence": 0.0388,
+      "tempo_bpm": 115.983,
+      "instrumentalness": 0.881,
+      "acousticness": 0.00126,
+      "liveness": 0.123,
+      "speechiness": 0.0324,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "0mljrVHFeq2qgThql44LcI",
+    "track_name": "T\u00f4 isso aqui pra te beijar - Ao Vivo",
+    "bucket": "MID",
+    "prob": 0.5,
+    "popularity": 50,
+    "justification": "acousticness (0.543) > median (0.169) and valence (0.705) > median (0.464).",
+    "evidence": {
+      "danceability": 0.537,
+      "energy": 0.761,
+      "loudness_db": -6.194,
+      "valence": 0.705,
+      "tempo_bpm": 165.984,
+      "instrumentalness": 0.0,
+      "acousticness": 0.543,
+      "liveness": 0.472,
+      "speechiness": 0.0741,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "59wlTaYOL5tDUgXnbBQ3my",
+    "track_name": "A Moment Apart",
+    "bucket": "LOW",
+    "prob": 0.28,
+    "popularity": 28,
+    "justification": "instrumentalness (0.668) > median (4.16e-05) and valence (0.0756) < median (0.464).",
+    "evidence": {
+      "danceability": 0.515,
+      "energy": 0.663,
+      "loudness_db": -7.896,
+      "valence": 0.0756,
+      "tempo_bpm": 120.024,
+      "instrumentalness": 0.668,
+      "acousticness": 0.179,
+      "liveness": 0.494,
+      "speechiness": 0.0328,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "2Qud6Q1KlK22qHcjUGlRpJ",
+    "track_name": "Sueltate Mah",
+    "bucket": "MID",
+    "prob": 0.45,
+    "popularity": 45,
+    "justification": "loudness_db (-10.2) < median (-7.004) and acousticness (0.614) > median (0.169).",
+    "evidence": {
+      "danceability": 0.662,
+      "energy": 0.785,
+      "loudness_db": -10.159,
+      "valence": 0.797,
+      "tempo_bpm": 180.108,
+      "instrumentalness": 0.0,
+      "acousticness": 0.614,
+      "liveness": 0.106,
+      "speechiness": 0.203,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "2Pp9osgyIcw6o1avfDDDhH",
+    "track_name": "Forever Young",
+    "bucket": "MID",
+    "prob": 0.67,
+    "popularity": 67,
+    "justification": "loudness_db (-1.81) > median (-7.004) and energy (0.961) > median (0.685).",
+    "evidence": {
+      "danceability": 0.592,
+      "energy": 0.961,
+      "loudness_db": -1.807,
+      "valence": 0.508,
+      "tempo_bpm": 109.826,
+      "instrumentalness": 0.0,
+      "acousticness": 0.0423,
+      "liveness": 0.0882,
+      "speechiness": 0.096,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "4xu38KnbRHbRHRwdg4KFul",
+    "track_name": "Box Fan Long Loop For Sleep",
+    "bucket": "LOW",
+    "prob": 0.01,
+    "popularity": 1,
+    "justification": "loudness_db (-25.6) < median (-7.004) and danceability (0) < median (0.58).",
+    "evidence": {
+      "danceability": 0.0,
+      "energy": 2.03e-05,
+      "loudness_db": -25.556,
+      "valence": 0.0,
+      "tempo_bpm": 0.0,
+      "instrumentalness": 0.213,
+      "acousticness": 0.145,
+      "liveness": 0.114,
+      "speechiness": 0.0,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "0CkwGzywZ3js4Hcmb0RkQn",
+    "track_name": "Heavy Metal Love",
+    "bucket": "MID",
+    "prob": 0.54,
+    "popularity": 54,
+    "justification": "danceability (0.768) > median (0.58) and loudness_db (-8.06) < median (-7.004).",
+    "evidence": {
+      "danceability": 0.768,
+      "energy": 0.767,
+      "loudness_db": -8.06,
+      "valence": 0.457,
+      "tempo_bpm": 125.029,
+      "instrumentalness": 0.0,
+      "acousticness": 0.194,
+      "liveness": 0.121,
+      "speechiness": 0.0358,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "2Yj1sRA7UENRp7p6tt8E1k",
+    "track_name": "Break Ups Suck Ass",
+    "bucket": "MID",
+    "prob": 0.36,
+    "popularity": 36,
+    "justification": "energy (0.327) < median (0.685) and acousticness (0.866) > median (0.169).",
+    "evidence": {
+      "danceability": 0.605,
+      "energy": 0.327,
+      "loudness_db": -7.659,
+      "valence": 0.608,
+      "tempo_bpm": 179.839,
+      "instrumentalness": 0.0,
+      "acousticness": 0.866,
+      "liveness": 0.125,
+      "speechiness": 0.037,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "6OEHLXWw1PDfhbJLbNRi94",
+    "track_name": "Make Me Happy",
+    "bucket": "MID",
+    "prob": 0.57,
+    "popularity": 57,
+    "justification": "valence (0.944) > median (0.464) and danceability (0.713) > median (0.58).",
+    "evidence": {
+      "danceability": 0.713,
+      "energy": 0.639,
+      "loudness_db": -5.769,
+      "valence": 0.944,
+      "tempo_bpm": 92.072,
+      "instrumentalness": 0.0,
+      "acousticness": 0.423,
+      "liveness": 0.129,
+      "speechiness": 0.05,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "2B5a8L30R9vk3F9clonX5g",
+    "track_name": "Vuela paloma",
+    "bucket": "MID",
+    "prob": 0.4,
+    "popularity": 40,
+    "justification": "energy (0.374) < median (0.685) and acousticness (0.788) > median (0.169).",
+    "evidence": {
+      "danceability": 0.668,
+      "energy": 0.374,
+      "loudness_db": -8.232,
+      "valence": 0.669,
+      "tempo_bpm": 113.108,
+      "instrumentalness": 0.0,
+      "acousticness": 0.788,
+      "liveness": 0.29,
+      "speechiness": 0.0288,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "3AO4zBhbT0E8hxb9HMSmbM",
+    "track_name": "Obama and Hitler!",
+    "bucket": "MID",
+    "prob": 0.37,
+    "popularity": 37,
+    "justification": "acousticness (0.653) > median (0.169) and danceability (0.705) > median (0.58).",
+    "evidence": {
+      "danceability": 0.705,
+      "energy": 0.555,
+      "loudness_db": -7.811,
+      "valence": 0.661,
+      "tempo_bpm": 116.073,
+      "instrumentalness": 0.0,
+      "acousticness": 0.653,
+      "liveness": 0.649,
+      "speechiness": 0.941,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "6LFXmq8DuXrxoyrPz7c5Lw",
+    "track_name": "Ponto Final",
+    "bucket": "MID",
+    "prob": 0.57,
+    "popularity": 57,
+    "justification": "energy (0.829) > median (0.685) and loudness_db (-5.6) > median (-7.004).",
+    "evidence": {
+      "danceability": 0.657,
+      "energy": 0.829,
+      "loudness_db": -5.596,
+      "valence": 0.569,
+      "tempo_bpm": 117.029,
+      "instrumentalness": 0.0,
+      "acousticness": 0.276,
+      "liveness": 0.207,
+      "speechiness": 0.0673,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "4UDmDIqJIbrW0hMBQMFOsM",
+    "track_name": "Stayin' Alive",
+    "bucket": "LOW",
+    "prob": 0.27,
+    "popularity": 27,
+    "justification": "loudness_db (-19.8) < median (-7.004) and danceability (0.707) > median (0.58).",
+    "evidence": {
+      "danceability": 0.707,
+      "energy": 0.535,
+      "loudness_db": -19.793,
+      "valence": 0.641,
+      "tempo_bpm": 103.644,
+      "instrumentalness": 0.00615,
+      "acousticness": 0.113,
+      "liveness": 0.0884,
+      "speechiness": 0.0436,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "4RShNT9cGPE2jnrO82Ma0I",
+    "track_name": "Little Jack Horner - Original Mix",
+    "bucket": "LOW",
+    "prob": 0.01,
+    "popularity": 1,
+    "justification": "loudness_db (-17.1) < median (-7.004) and instrumentalness (0.946) > median (4.16e-05).",
+    "evidence": {
+      "danceability": 0.495,
+      "energy": 0.137,
+      "loudness_db": -17.15,
+      "valence": 0.271,
+      "tempo_bpm": 139.73,
+      "instrumentalness": 0.946,
+      "acousticness": 0.968,
+      "liveness": 0.109,
+      "speechiness": 0.0468,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "0Y2v82GQsomVCqnfWpRSg5",
+    "track_name": "Dois Amores, Duas Paix\u00f5es",
+    "bucket": "MID",
+    "prob": 0.53,
+    "popularity": 53,
+    "justification": "loudness_db (-4.38) > median (-7.004) and danceability (0.496) < median (0.58).",
+    "evidence": {
+      "danceability": 0.496,
+      "energy": 0.727,
+      "loudness_db": -4.378,
+      "valence": 0.501,
+      "tempo_bpm": 166.068,
+      "instrumentalness": 0.0,
+      "acousticness": 0.237,
+      "liveness": 0.422,
+      "speechiness": 0.0427,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "3iRKwxW8ZDjmL9nKk3nisz",
+    "track_name": "Jaiye Foreign",
+    "bucket": "MID",
+    "prob": 0.66,
+    "popularity": 66,
+    "justification": "danceability (0.82) > median (0.58) and valence (0.861) > median (0.464).",
+    "evidence": {
+      "danceability": 0.82,
+      "energy": 0.816,
+      "loudness_db": -6.29,
+      "valence": 0.861,
+      "tempo_bpm": 108.98,
+      "instrumentalness": 7.81e-05,
+      "acousticness": 0.0216,
+      "liveness": 0.0541,
+      "speechiness": 0.077,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "1HGtTmgl1sEycuS9lJviWQ",
+    "track_name": "dooriyan",
+    "bucket": "MID",
+    "prob": 0.42,
+    "popularity": 42,
+    "justification": "acousticness (0.731) > median (0.169) and danceability (0.735) > median (0.58).",
+    "evidence": {
+      "danceability": 0.735,
+      "energy": 0.593,
+      "loudness_db": -7.473,
+      "valence": 0.475,
+      "tempo_bpm": 160.07,
+      "instrumentalness": 0.178,
+      "acousticness": 0.731,
+      "liveness": 0.135,
+      "speechiness": 0.0885,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "69Yia3qCLw6N9U80WhLwLn",
+    "track_name": "Voice of the Soul",
+    "bucket": "LOW",
+    "prob": 0.19,
+    "popularity": 19,
+    "justification": "instrumentalness (0.893) > median (4.16e-05) and danceability (0.158) < median (0.58).",
+    "evidence": {
+      "danceability": 0.158,
+      "energy": 0.572,
+      "loudness_db": -6.293,
+      "valence": 0.347,
+      "tempo_bpm": 79.176,
+      "instrumentalness": 0.893,
+      "acousticness": 0.000926,
+      "liveness": 0.144,
+      "speechiness": 0.0346,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "73rQVihYf9bPXflrJiesqF",
+    "track_name": "Ressuscitou (Resurrecting) [Kemuel Nation]",
+    "bucket": "MID",
+    "prob": 0.34,
+    "popularity": 34,
+    "justification": "danceability (0.413) < median (0.58) and energy (0.509) < median (0.685).",
+    "evidence": {
+      "danceability": 0.413,
+      "energy": 0.509,
+      "loudness_db": -8.439,
+      "valence": 0.222,
+      "tempo_bpm": 148.055,
+      "instrumentalness": 0.0,
+      "acousticness": 0.326,
+      "liveness": 0.116,
+      "speechiness": 0.0292,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "7G4FH6SEh9wgDRztDi3cDE",
+    "track_name": "Utan att f\u00f6rst\u00e5",
+    "bucket": "MID",
+    "prob": 0.61,
+    "popularity": 61,
+    "justification": "loudness_db (-5.09) > median (-7.004) and valence (0.741) > median (0.464).",
+    "evidence": {
+      "danceability": 0.663,
+      "energy": 0.733,
+      "loudness_db": -5.09,
+      "valence": 0.741,
+      "tempo_bpm": 107.967,
+      "instrumentalness": 9.01e-06,
+      "acousticness": 0.00878,
+      "liveness": 0.108,
+      "speechiness": 0.0298,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "44Lv3y1OHRM7r8vuEAGTkW",
+    "track_name": "Liebe ist ...",
+    "bucket": "MID",
+    "prob": 0.62,
+    "popularity": 62,
+    "justification": "loudness_db (-4.18) > median (-7.004) and valence (0.782) > median (0.464).",
+    "evidence": {
+      "danceability": 0.631,
+      "energy": 0.8,
+      "loudness_db": -4.179,
+      "valence": 0.782,
+      "tempo_bpm": 156.941,
+      "instrumentalness": 0.0,
+      "acousticness": 0.107,
+      "liveness": 0.373,
+      "speechiness": 0.101,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "5d4MvCqMJUgoVVCz16tvlD",
+    "track_name": "\u518d\u898b\u4e8c\u4e01\u76ee",
+    "bucket": "LOW",
+    "prob": 0.28,
+    "popularity": 28,
+    "justification": "energy (0.3) < median (0.685) and loudness_db (-10.3) < median (-7.004).",
+    "evidence": {
+      "danceability": 0.645,
+      "energy": 0.3,
+      "loudness_db": -10.282,
+      "valence": 0.214,
+      "tempo_bpm": 143.928,
+      "instrumentalness": 0.0,
+      "acousticness": 0.815,
+      "liveness": 0.115,
+      "speechiness": 0.0362,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "3JCcBtwNldEBd3O4hqYDWI",
+    "track_name": "No Me Arrodillo",
+    "bucket": "MID",
+    "prob": 0.49,
+    "popularity": 49,
+    "justification": "danceability (0.81) > median (0.58) and energy (0.542) < median (0.685).",
+    "evidence": {
+      "danceability": 0.81,
+      "energy": 0.542,
+      "loudness_db": -7.146,
+      "valence": 0.376,
+      "tempo_bpm": 164.151,
+      "instrumentalness": 0.0,
+      "acousticness": 0.102,
+      "liveness": 0.113,
+      "speechiness": 0.415,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "0fGDKi4UeXx8CypAvJdAj6",
+    "track_name": "F***k Orgus (Dance) - Dr. Rude Remix",
+    "bucket": "MID",
+    "prob": 0.46,
+    "popularity": 46,
+    "justification": "instrumentalness (0.74) > median (4.16e-05) and danceability (0.842) > median (0.58).",
+    "evidence": {
+      "danceability": 0.842,
+      "energy": 0.867,
+      "loudness_db": -6.886,
+      "valence": 0.587,
+      "tempo_bpm": 147.011,
+      "instrumentalness": 0.74,
+      "acousticness": 0.00892,
+      "liveness": 0.256,
+      "speechiness": 0.364,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "0NmnFMWMkTETNANGpVVqyc",
+    "track_name": "Wasteland",
+    "bucket": "MID",
+    "prob": 0.6,
+    "popularity": 60,
+    "justification": "loudness_db (-3.9) > median (-7.004) and energy (0.836) > median (0.685).",
+    "evidence": {
+      "danceability": 0.563,
+      "energy": 0.836,
+      "loudness_db": -3.901,
+      "valence": 0.657,
+      "tempo_bpm": 141.923,
+      "instrumentalness": 0.0,
+      "acousticness": 0.108,
+      "liveness": 0.243,
+      "speechiness": 0.0903,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "6HhdFRM9un1Ojpz1A98pVi",
+    "track_name": "If We Ever - 2018 Remaster",
+    "bucket": "MID",
+    "prob": 0.5,
+    "popularity": 50,
+    "justification": "instrumentalness (0.31) > median (4.16e-05) and loudness_db (-4.29) > median (-7.004).",
+    "evidence": {
+      "danceability": 0.542,
+      "energy": 0.875,
+      "loudness_db": -4.285,
+      "valence": 0.114,
+      "tempo_bpm": 172.973,
+      "instrumentalness": 0.31,
+      "acousticness": 0.000356,
+      "liveness": 0.359,
+      "speechiness": 0.0507,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "3oRP6yGs5d0kFpGRRzzaS8",
+    "track_name": "\u56e0\u70ba\u4f60 \u6240\u4ee5\u6211",
+    "bucket": "MID",
+    "prob": 0.47,
+    "popularity": 47,
+    "justification": "danceability (0.47) < median (0.58) and valence (0.488) > median (0.464).",
+    "evidence": {
+      "danceability": 0.47,
+      "energy": 0.685,
+      "loudness_db": -6.896,
+      "valence": 0.488,
+      "tempo_bpm": 152.103,
+      "instrumentalness": 0.0,
+      "acousticness": 0.188,
+      "liveness": 0.112,
+      "speechiness": 0.0363,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "19ZjBzxJ5ARxbln6Qmw1AN",
+    "track_name": "Corrina, Corrina",
+    "bucket": "MID",
+    "prob": 0.34,
+    "popularity": 34,
+    "justification": "acousticness (0.798) > median (0.169) and energy (0.413) < median (0.685).",
+    "evidence": {
+      "danceability": 0.481,
+      "energy": 0.413,
+      "loudness_db": -8.688,
+      "valence": 0.681,
+      "tempo_bpm": 127.591,
+      "instrumentalness": 1.61e-05,
+      "acousticness": 0.798,
+      "liveness": 0.0817,
+      "speechiness": 0.0326,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "3CmUas41TD2t8EGNZ85J9f",
+    "track_name": "Happy Holidays, You Bastard",
+    "bucket": "MID",
+    "prob": 0.66,
+    "popularity": 66,
+    "justification": "loudness_db (-2.08) > median (-7.004) and energy (0.99) > median (0.685).",
+    "evidence": {
+      "danceability": 0.409,
+      "energy": 0.99,
+      "loudness_db": -2.084,
+      "valence": 0.962,
+      "tempo_bpm": 172.715,
+      "instrumentalness": 0.0,
+      "acousticness": 0.02,
+      "liveness": 0.513,
+      "speechiness": 0.115,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "0y4iXXlpVFJSQjlx0vQ3MZ",
+    "track_name": "Forever",
+    "bucket": "LOW",
+    "prob": 0.16,
+    "popularity": 16,
+    "justification": "loudness_db (-14.6) < median (-7.004) and instrumentalness (0.414) > median (4.16e-05).",
+    "evidence": {
+      "danceability": 0.763,
+      "energy": 0.457,
+      "loudness_db": -14.629,
+      "valence": 0.0384,
+      "tempo_bpm": 117.996,
+      "instrumentalness": 0.414,
+      "acousticness": 0.796,
+      "liveness": 0.108,
+      "speechiness": 0.0539,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "3F5DccNp39Waj4QjZBUPGO",
+    "track_name": "Messiah, HWV 56 / Pt. 2: XLII. \"Hallelujah\"",
+    "bucket": "LOW",
+    "prob": 0.03,
+    "popularity": 3,
+    "justification": "instrumentalness (0.6) > median (4.16e-05) and loudness_db (-12.9) < median (-7.004).",
+    "evidence": {
+      "danceability": 0.434,
+      "energy": 0.262,
+      "loudness_db": -12.874,
+      "valence": 0.256,
+      "tempo_bpm": 103.015,
+      "instrumentalness": 0.6,
+      "acousticness": 0.959,
+      "liveness": 0.141,
+      "speechiness": 0.0286,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "7Afr3PKTtlFGHGiXYgnv6P",
+    "track_name": "I Like You",
+    "bucket": "LOW",
+    "prob": 0.32,
+    "popularity": 32,
+    "justification": "loudness_db (-11.9) < median (-7.004) and energy (0.334) < median (0.685).",
+    "evidence": {
+      "danceability": 0.624,
+      "energy": 0.334,
+      "loudness_db": -11.89,
+      "valence": 0.397,
+      "tempo_bpm": 157.92,
+      "instrumentalness": 3.27e-06,
+      "acousticness": 0.321,
+      "liveness": 0.113,
+      "speechiness": 0.0391,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "0qjux3nULEYN7Yz9jijgWz",
+    "track_name": "GTA 2",
+    "bucket": "MID",
+    "prob": 0.46,
+    "popularity": 46,
+    "justification": "loudness_db (-8.54) < median (-7.004) and danceability (0.627) > median (0.58).",
+    "evidence": {
+      "danceability": 0.627,
+      "energy": 0.652,
+      "loudness_db": -8.545,
+      "valence": 0.487,
+      "tempo_bpm": 160.089,
+      "instrumentalness": 0.0,
+      "acousticness": 0.214,
+      "liveness": 0.0767,
+      "speechiness": 0.122,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "5f5DBTOW5Y6wPiKTVcYVkg",
+    "track_name": "Superlove",
+    "bucket": "MID",
+    "prob": 0.52,
+    "popularity": 52,
+    "justification": "danceability (0.753) > median (0.58) and loudness_db (-8.27) < median (-7.004).",
+    "evidence": {
+      "danceability": 0.753,
+      "energy": 0.809,
+      "loudness_db": -8.268,
+      "valence": 0.409,
+      "tempo_bpm": 119.991,
+      "instrumentalness": 0.0076,
+      "acousticness": 0.317,
+      "liveness": 0.141,
+      "speechiness": 0.0637,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "5jyPgh9K0YlyhlVGQzFsbO",
+    "track_name": "On Repeat",
+    "bucket": "MID",
+    "prob": 0.48,
+    "popularity": 48,
+    "justification": "loudness_db (-8.48) < median (-7.004) and valence (0.202) < median (0.464).",
+    "evidence": {
+      "danceability": 0.609,
+      "energy": 0.801,
+      "loudness_db": -8.483,
+      "valence": 0.202,
+      "tempo_bpm": 122.958,
+      "instrumentalness": 0.00255,
+      "acousticness": 0.0246,
+      "liveness": 0.37,
+      "speechiness": 0.0694,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "6Gx3Ry4ORogdMibbdITOuN",
+    "track_name": "Dhadak Title Track",
+    "bucket": "LOW",
+    "prob": 0.19,
+    "popularity": 19,
+    "justification": "energy (0.312) < median (0.685) and loudness_db (-10.7) < median (-7.004).",
+    "evidence": {
+      "danceability": 0.375,
+      "energy": 0.312,
+      "loudness_db": -10.656,
+      "valence": 0.22,
+      "tempo_bpm": 77.527,
+      "instrumentalness": 0.00988,
+      "acousticness": 0.85,
+      "liveness": 0.137,
+      "speechiness": 0.031,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "34a89MbC7QXsUsLkljLgXX",
+    "track_name": "Free Fallin'",
+    "bucket": "MID",
+    "prob": 0.4,
+    "popularity": 40,
+    "justification": "loudness_db (-11.6) < median (-7.004) and energy (0.504) < median (0.685).",
+    "evidence": {
+      "danceability": 0.619,
+      "energy": 0.504,
+      "loudness_db": -11.562,
+      "valence": 0.568,
+      "tempo_bpm": 84.335,
+      "instrumentalness": 0.0,
+      "acousticness": 0.0614,
+      "liveness": 0.06,
+      "speechiness": 0.025,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "3zPVG3y3rEzyixSFhe3XYu",
+    "track_name": "Andorinha Machucada / Tudo de Novo / Pense em Mim (Ao Vivo)",
+    "bucket": "LOW",
+    "prob": 0.32,
+    "popularity": 32,
+    "justification": "acousticness (0.83) > median (0.169) and danceability (0.415) < median (0.58).",
+    "evidence": {
+      "danceability": 0.415,
+      "energy": 0.501,
+      "loudness_db": -7.232,
+      "valence": 0.306,
+      "tempo_bpm": 114.579,
+      "instrumentalness": 0.0,
+      "acousticness": 0.83,
+      "liveness": 0.242,
+      "speechiness": 0.0361,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "4YXKKnIZuk7UtXH5oC0ffa",
+    "track_name": "Lucille",
+    "bucket": "MID",
+    "prob": 0.43,
+    "popularity": 43,
+    "justification": "loudness_db (-12.1) < median (-7.004) and valence (0.919) > median (0.464).",
+    "evidence": {
+      "danceability": 0.676,
+      "energy": 0.708,
+      "loudness_db": -12.115,
+      "valence": 0.919,
+      "tempo_bpm": 143.669,
+      "instrumentalness": 0.000307,
+      "acousticness": 0.592,
+      "liveness": 0.166,
+      "speechiness": 0.0698,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "089tprIgsyFSOrZpugamLI",
+    "track_name": "Blame",
+    "bucket": "MID",
+    "prob": 0.47,
+    "popularity": 47,
+    "justification": "valence (0.117) < median (0.464) and danceability (0.624) > median (0.58).",
+    "evidence": {
+      "danceability": 0.624,
+      "energy": 0.68,
+      "loudness_db": -7.285,
+      "valence": 0.117,
+      "tempo_bpm": 91.998,
+      "instrumentalness": 6.78e-05,
+      "acousticness": 0.114,
+      "liveness": 0.0614,
+      "speechiness": 0.0421,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "3RVKeAie8vdadw5r1PPBx5",
+    "track_name": "(Evil Hearted Me) Downright Evil",
+    "bucket": "MID",
+    "prob": 0.47,
+    "popularity": 47,
+    "justification": "loudness_db (-10.2) < median (-7.004) and acousticness (0.719) > median (0.169).",
+    "evidence": {
+      "danceability": 0.593,
+      "energy": 0.865,
+      "loudness_db": -10.227,
+      "valence": 0.969,
+      "tempo_bpm": 157.96,
+      "instrumentalness": 2.29e-05,
+      "acousticness": 0.719,
+      "liveness": 0.303,
+      "speechiness": 0.0378,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "7u1S5QZSwrWyNczrN9IAKR",
+    "track_name": "Doiloi",
+    "bucket": "LOW",
+    "prob": 0.01,
+    "popularity": 1,
+    "justification": "loudness_db (-14.8) < median (-7.004) and energy (0.129) < median (0.685).",
+    "evidence": {
+      "danceability": 0.343,
+      "energy": 0.129,
+      "loudness_db": -14.82,
+      "valence": 0.0371,
+      "tempo_bpm": 124.396,
+      "instrumentalness": 0.174,
+      "acousticness": 0.988,
+      "liveness": 0.141,
+      "speechiness": 0.042,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "08r6N5mPmFMLhaXRZVfUbB",
+    "track_name": "If You'Re Smart",
+    "bucket": "LOW",
+    "prob": 0.26,
+    "popularity": 26,
+    "justification": "instrumentalness (0.74) > median (4.16e-05) and loudness_db (-12) < median (-7.004).",
+    "evidence": {
+      "danceability": 0.571,
+      "energy": 0.873,
+      "loudness_db": -11.995,
+      "valence": 0.0894,
+      "tempo_bpm": 179.841,
+      "instrumentalness": 0.74,
+      "acousticness": 3.25e-05,
+      "liveness": 0.373,
+      "speechiness": 0.0732,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "5YLHLxoZsodDWjqSgjhBf3",
+    "track_name": "Myself",
+    "bucket": "MID",
+    "prob": 0.56,
+    "popularity": 56,
+    "justification": "danceability (0.745) > median (0.58) and valence (0.902) > median (0.464).",
+    "evidence": {
+      "danceability": 0.745,
+      "energy": 0.561,
+      "loudness_db": -5.513,
+      "valence": 0.902,
+      "tempo_bpm": 195.918,
+      "instrumentalness": 1.12e-06,
+      "acousticness": 0.465,
+      "liveness": 0.0338,
+      "speechiness": 0.072,
+      "mode1": 0
+    }
+  },
+  {
+    "track_id": "1mVn6LE3NukwuP1uAixzgT",
+    "track_name": "When Worlds Collide",
+    "bucket": "MID",
+    "prob": 0.6,
+    "popularity": 60,
+    "justification": "loudness_db (-4.77) > median (-7.004) and energy (0.903) > median (0.685).",
+    "evidence": {
+      "danceability": 0.56,
+      "energy": 0.903,
+      "loudness_db": -4.77,
+      "valence": 0.581,
+      "tempo_bpm": 143.821,
+      "instrumentalness": 0.0,
+      "acousticness": 0.00132,
+      "liveness": 0.291,
+      "speechiness": 0.0754,
+      "mode1": 1
+    }
+  },
+  {
+    "track_id": "4zjuPxRdniuN7LZzI5aQNA",
+    "track_name": "Memory Cascades",
+    "bucket": "LOW",
+    "prob": 0.01,
+    "popularity": 1,
+    "justification": "loudness_db (-20.9) < median (-7.004) and instrumentalness (0.89) > median (4.16e-05).",
+    "evidence": {
+      "danceability": 0.562,
+      "energy": 0.343,
+      "loudness_db": -20.924,
+      "valence": 0.254,
+      "tempo_bpm": 81.691,
+      "instrumentalness": 0.89,
+      "acousticness": 0.508,
+      "liveness": 0.16,
+      "speechiness": 0.0419,
+      "mode1": 1
+    }
+  }
+]
