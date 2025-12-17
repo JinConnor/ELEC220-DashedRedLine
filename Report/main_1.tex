@@ -202,8 +202,8 @@ Columns:
 
 ### OUTPUT FORMAT
 [
-  {"id": 1, "group": 1, "question": "Question text here", "sql": "SELECT ... FROM song_dataset WHERE ..."},
-  {"id": 2, "group": 1, "question": "Question text here", "sql": "SELECT ... FROM song_dataset WHERE ..."}
+  {"id": 1, "group": 1, "question": "Question text here", "sql": "SELECT ... FROM song_dataset WHERE ..."},
+ {"id": 2, "group": 1, "question": "Question text here", "sql": "SELECT ... FROM song_dataset WHERE ..."}
 ]
 \end{lstlisting}
 
@@ -270,16 +270,23 @@ Table~\ref{tab:sql} reports exact-match and execution accuracy.
 \centering
 \caption{Text-to-SQL results.}
 \label{tab:sql}
-\begin{tabular}{lcc}
-\toprule
-\textbf{Model} & \textbf{Exact-match} & \textbf{Exec.\ accuracy} \\
-\midrule
-GPT & TODO & TODO \\
-Gemini & TODO & TODO \\
-Claude & TODO & TODO \\
-\bottomrule
-\end{tabular}
 \end{table}
+
+\begin{table*}[t]
+    \centering
+    \caption{Text-to-SQL Results }
+    \label{tab:sql_results_wide}
+    % Columns: l (left) for Model, c (center) for the 5 numeric columns
+    \begin{tabular}{lccccc}
+        \toprule
+        \textbf{Model} & \textbf{Exact-Match} & \textbf{Execution Accuracy} & \textbf{Schema Errors} & \textbf{Syntax Errors} & \textbf{Semantic Errors} \\
+        \midrule
+        Gemini & 32 & 40 & 0 & 0 & 0 \\
+        GPT    & 11 & 32 & 0 & 0 & 8 \\
+        Claude & 15 & 31 & 0 & 0 & 8 \\
+        \bottomrule
+    \end{tabular}
+\end{table*}
 
 \subsection{Operational cost and latency}
 Table~\ref{tab:ops} summarizes inference-time operational metrics.
